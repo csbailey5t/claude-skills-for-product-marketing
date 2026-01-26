@@ -785,12 +785,6 @@ Distribution Calendar: [When each goes out, which channels]
 - Transformations for different audiences need different positioning
 - Same value, different framing for different competitive alternatives
 
-## References
-- Core principle: Great content deserves wide distribution through strategic transformation
-- Focus on channel-native formats over mechanical repurposing
-- Match transformation to audience, channel, and goal
-- Prioritize ruthlessly based on ROI and capacity
-
 ## Skill Invocation Strategy
 
 When invoked, guide the user through:

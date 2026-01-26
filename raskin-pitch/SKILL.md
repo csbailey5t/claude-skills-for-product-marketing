@@ -373,10 +373,8 @@ When guiding someone through this framework, Claude should:
 [Continue with similar depth through each phase]
 
 ## References
-- Raskin, Andy. "The Greatest Sales Deck I've Ever Seen" (Zuora analysis)
-- Raskin, Andy. "The Greatest Sales Pitch I've Seen All Year" (Drift analysis)
-- Core principle: Frame your product as essential for navigating change, not as a nice-to-have improvement
-- The narrative creates urgency by showing that the world is changing and inaction has consequences
+- Raskin, Andy. ["The Greatest Sales Deck I've Ever Seen."](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) *Medium*, 2016.
+- Raskin, Andy. ["The Greatest Sales Pitch I've Seen All Year."](https://medium.com/the-mission/the-best-sales-pitch-ive-seen-all-year-7fa92afaa248) *Medium*, 2017.
 
 ## Skill Invocation Strategy
 

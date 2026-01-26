@@ -565,10 +565,7 @@ This sales pitch framework BUILDS ON positioning (see `/dunford-positioning` ski
 If you haven't done positioning work, start there. The sales pitch will be much easier to build with clear positioning as the foundation.
 
 ## References
-- Dunford, April. "Sales Pitch: How to Craft a Story to Stand Out and Win"
-- Key principle: Help buyers make confident decisions by reducing confusion about alternatives
-- 40-60% of B2B deals end in "no decision" - this framework addresses that root cause
-- Setup is discovery; follow-through is demonstration
+- Dunford, April. *Sales Pitch: How to Craft a Story to Stand Out and Win.* 2023.
 
 ## Skill Invocation Strategy
 

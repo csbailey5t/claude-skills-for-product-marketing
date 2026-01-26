@@ -311,6 +311,4 @@ When guiding someone through this framework, Claude should:
 [Continue through each phase with similar depth]
 
 ## References
-- Dunford, April. "Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It."
-- Focus on helping customers understand value in the context of their real alternatives
-- Positioning is the foundation for all messaging, not just marketing copy
+- Dunford, April. *Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It.* 2019.
