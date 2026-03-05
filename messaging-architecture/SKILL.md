@@ -1,6 +1,11 @@
 ---
 name: messaging-architecture
-description: Guides product marketers through building a complete messaging architecture that translates positioning into usable copy. Use when creating a new messaging framework, refreshing messaging that isn't resonating, or aligning messaging across teams. Produces a layered hierarchy from company-level story through messaging pillars to proof points, with audience variants.
+description: Guides product marketers through building a complete messaging architecture that translates positioning into usable copy. Use when creating a new messaging framework, refreshing messaging that isn't resonating, or aligning messaging across teams. Produces a layered hierarchy from company-level story through messaging pillars to proof points, with audience variants. Requires positioning work first — use dunford-positioning if positioning is unclear. Do NOT use for sales pitch creation (use dunford-sales-pitch or raskin-pitch).
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Messaging Architecture Skill

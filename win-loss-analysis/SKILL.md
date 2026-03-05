@@ -1,6 +1,11 @@
 ---
 name: win-loss-analysis
-description: Guides product marketers through designing, conducting, and reporting on win/loss analysis programs. Use when you need to understand why you win and lose deals, improve sales effectiveness, inform product roadmap, or build a systematic competitive intelligence program. Based on Clozd and Pragmatic Institute methodologies for interview design, synthesis, and stakeholder communication.
+description: Guides product marketers through designing, conducting, and reporting on win/loss analysis programs. Use when you need to understand why you win and lose deals, improve sales effectiveness, inform product roadmap, or build a systematic competitive intelligence program. Based on Clozd and Pragmatic Institute methodologies for interview design, synthesis, and stakeholder communication. For understanding buying motivation and JTBD forces, use switch-interview instead.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Win/Loss Analysis Skill

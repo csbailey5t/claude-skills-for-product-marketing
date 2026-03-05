@@ -1,6 +1,11 @@
 ---
 name: content-multiplication
-description: Transforms existing content into multiple creative formats optimized for distribution. Through systematic questioning, identifies core value, audience segments, and distribution channels, then generates specific transformation ideas that maximize reach and impact. Focuses on creative repackaging, not just repurposing.
+description: Transforms existing content into multiple creative formats optimized for distribution. Use when you want to "repurpose content", "get more mileage from existing content", "turn a blog post into multiple assets", maximize reach from high-performing content, or plan content distribution across channels. Focuses on creative repackaging, not just repurposing.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Content Multiplication Skill
@@ -450,93 +455,7 @@ For each idea, score on:
 
 ## Phase 5: Channel-Native Optimization
 
-### Channel-Specific Considerations
-
-**LinkedIn:**
-- Native content outperforms links
-- Personal posts > company page posts
-- Carousels, short videos, text-based insights perform well
-- Professional tone but conversational
-- Best times: Tue-Thu, 8-10am, 12-2pm
-
-**Twitter/X:**
-- Threads for narrative content
-- Quote graphics for standalone value
-- Data visualizations for engagement
-- Contrarian takes for discussion
-- Visual threads outperform text-only
-
-**Email Newsletter:**
-- Exclusive insights not published elsewhere
-- Direct value (templates, tools, early access)
-- Storytelling works better than lists
-- Personal tone, founder/expert voice
-- Clear single CTA
-
-**YouTube:**
-- Needs to stand alone (people don't read descriptions)
-- First 30 seconds critical (retention)
-- Thumbnail and title do heavy lifting
-- Longer content okay if it's engaging
-- Series/playlists for related content
-
-**Podcast:**
-- Conversational, not presentational
-- Stories and examples over frameworks
-- Can be longer (30-60min)
-- Audio-only (no visuals needed)
-- Interview format often easiest
-
-**Sales Enablement:**
-- One-pagers for leave-behinds
-- Slide decks for presentations
-- Battle cards for objection handling
-- Customer stories for social proof
-- ROI calculators for business case
-
-**Gated Assets (Lead Gen):**
-- Must be substantially more valuable than free content
-- Actionable tools/templates
-- Proprietary research or data
-- Comprehensive guides
-- Interactive assessments
-
-### Example Channel Mapping
-
-**Original Content:** Prioritization framework blog post
-
-**LinkedIn (Awareness):**
-- ✅ Framework infographic (native image)
-- ✅ Case study carousel
-- ✅ 2-min video walkthrough
-- ✅ "5 prioritization mistakes" text post
-
-**Email (Nurture):**
-- ✅ Prioritization template (exclusive for subscribers)
-- ✅ "How [Customer] used this framework" story
-- ✅ Email course: 5 days, 5 steps of framework
-- ✅ Founder note: "Why we built this framework"
-
-**Sales Enablement:**
-- ✅ One-pager: Framework visual + customer quote
-- ✅ Leave-behind: Mini case study
-- ✅ Discovery questions based on framework
-- ✅ ROI calculator: Time saved with better prioritization
-
-**Gated Asset (Lead Gen):**
-- ✅ Full template kit: Prioritization worksheet, decision matrix, stakeholder communication templates
-- ✅ "Ultimate Guide" PDF with original post + 10 more examples
-- ✅ Interactive assessment: "How good is your prioritization process?"
-
-**YouTube (SEO/Evergreen):**
-- ✅ 10-min tutorial: Walking through framework with screen share
-- ✅ Series: Each step of framework = one video
-- ✅ "Common mistakes" video highlighting the data
-
-**Podcast (Depth):**
-- ✅ Interview with customer who used framework
-- ✅ "Deep dive" episode: Framework origins and philosophy
-- ✅ Founder story: "When I realized prioritization was broken"
+For detailed channel-specific considerations (LinkedIn, Twitter/X, Email, YouTube, Podcast, Sales Enablement, Gated Assets) and example channel mappings, see `references/channel-guide.md`.
 
 ## The Multiplication Matrix
 
@@ -646,86 +565,7 @@ When guiding someone through content multiplication, Claude should:
 
 ## Example Complete Dialogue
 
-**Claude:** "What content are we multiplying?"
-
-**User:** "A webinar we did on sales enablement."
-
-**Claude:** "Tell me about the webinar. How long? What did you cover? How did it perform?"
-
-**User:** "60 minutes, covered a framework for sales-product collaboration. About 200 attendees, good feedback."
-
-**Claude:** "What makes this worth multiplying versus creating new content?"
-
-**User:** "It took weeks to prepare and people are still asking for the recording."
-
-**Claude:** "Good signal. What specific elements are in the webinar that we can extract?"
-
-**User:** "A 4-step framework, live demo, Q&A session with great questions, and some data we shared about sales-product misalignment."
-
-**Claude:** "Perfect. What are you trying to achieve by multiplying this? And don't say 'more leads' - be specific."
-
-**User:** "We want to reach people who couldn't attend live and generate demo requests."
-
-**Claude:** "Okay, so:
-- **Goal**: Reach new audience + drive demo requests
-- **Source value**: Framework, demo, Q&A, data
-- **Proof point**: 200 attendees, ongoing interest
-
-Who was the webinar for originally?"
-
-**User:** "Sales leaders at B2B SaaS companies."
-
-**Claude:** "Who ELSE might care about sales-product collaboration? Product leaders? RevOps?"
-
-**User:** "Yes, both. And maybe founders at early-stage companies."
-
-**Claude:** "Good - three audiences. Now, where do these people actually consume content? Not where you WISH they did, where they ACTUALLY do."
-
-**User:** "Sales leaders: LinkedIn, email. Product leaders: Twitter, blogs. Founders: Twitter, podcasts."
-
-**Claude:** "Excellent. Now let's brainstorm transformations:
-
-**For Sales Leaders on LinkedIn:**
-- Option 1: Extract the framework as a carousel (native LinkedIn format)
-- Option 2: Cut the 60-min webinar into 5-min highlight reel
-- Option 3: Pull the best Q&A as a 'Common objections' post
-
-Which feels most valuable and distribution-ready?"
-
-**User:** "The highlight reel?"
-
-**Claude:** "Why?"
-
-**User:** "Because no one will watch 60 minutes, but 5 minutes is consumable."
-
-**Claude:** "Exactly. And the 5 minutes should be the BEST 5 minutes - probably the demo or a framework walkthrough. What about for Product Leaders on Twitter?"
-
-**User:** "Maybe the data about sales-product misalignment?"
-
-**Claude:** "Good! Turn the data into a visualization, lead with a contrarian take. 'Most product teams think sales is the problem. But the data shows...' Creates engagement. Now, what about a gated asset for lead generation?"
-
-**User:** "Full webinar recording?"
-
-**Claude:** "That's okay, but what could be MORE valuable? What did people ask for in the Q&A?"
-
-**User:** "They wanted templates for sales-product collaboration meetings."
-
-**Claude:** "THAT'S your gated asset! Create a template kit based on the framework. People will trade their email for actionable templates way faster than for a 60-minute video.
-
-So your multiplication plan:
-1. **LinkedIn (Sales Leaders)**: 5-min highlight reel → awareness
-2. **Twitter (Product Leaders)**: Data visualization thread → engagement
-3. **Gated asset (Everyone)**: Template kit → lead gen
-4. **Email (Existing list)**: Full recording + templates → nurture
-5. **Sales enablement (Internal)**: Framework one-pager → closing tool
-
-That's 5 transformations from one webinar. Which 2 will you create first?"
-
-**User:** "Highlight reel and template kit."
-
-**Claude:** "Smart. High distribution potential (LinkedIn native video) and high conversion potential (templates for lead gen). When will you create them and where will you distribute?"
-
-[Continue with specific distribution planning]
+For a full end-to-end example of content multiplication applied to a webinar (showing source analysis, audience segmentation, transformation brainstorming, and prioritization), see `references/example-dialogue.md`.
 
 ## Output Template: Multiplication Plan
 

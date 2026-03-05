@@ -1,6 +1,11 @@
 ---
 name: dunford-positioning
-description: Guides product marketers through April Dunford's systematic positioning framework from "Obviously Awesome". Use when positioning a new product, repositioning existing products, developing competitive positioning, clarifying market category, or creating positioning documents. Helps discover competitive alternatives, unique attributes, value propositions, target markets, and market categories through structured questioning.
+description: Guides product marketers through April Dunford's systematic positioning framework from "Obviously Awesome". Use when positioning a new product, repositioning existing products, developing competitive positioning, clarifying market category, or creating positioning documents. Helps discover competitive alternatives, unique attributes, value propositions, target markets, and market categories through structured questioning. Do NOT use for messaging copy or sales deck creation — use messaging-architecture or dunford-sales-pitch instead.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # April Dunford Positioning Framework Skill

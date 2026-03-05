@@ -1,6 +1,11 @@
 ---
 name: battlecard-builder
-description: Guides product marketers through building competitive battlecards that sales reps will actually use. Use when creating new competitive battlecards, refreshing outdated ones, or building a battlecard program. Focuses on actionable talk tracks and discovery plays, not just feature comparisons. Covers competitor positioning, differentiated proof points, objection handling, and when reps should escalate to PMM.
+description: Guides product marketers through building competitive battlecards that sales reps will actually use. Use when creating new competitive battlecards, refreshing outdated ones, or building a battlecard program. Focuses on actionable talk tracks and discovery plays, not just feature comparisons. Covers competitor positioning, differentiated proof points, objection handling, and when reps should escalate to PMM. For broader competitive positioning strategy, use dunford-positioning instead.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Competitive Battlecard Builder Skill

@@ -1,6 +1,11 @@
 ---
 name: switch-interview
-description: Guides product marketers and researchers through Bob Moesta's Switch Interview methodology from Jobs-to-be-Done theory. Use when designing buyer research to understand what motivates customers to switch products, what forces drive and block purchase decisions, and what "job" they hired your product to do. Produces insight for positioning, messaging, and product development.
+description: Guides product marketers and researchers through Bob Moesta's Switch Interview methodology from Jobs-to-be-Done theory. Use when designing buyer research to understand what motivates customers to switch products, what forces drive and block purchase decisions, and what "job" they hired your product to do. Produces insight for positioning, messaging, and product development. For post-decision analysis of wins and losses, use win-loss-analysis instead.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Switch Interview Skill (Jobs-to-be-Done)

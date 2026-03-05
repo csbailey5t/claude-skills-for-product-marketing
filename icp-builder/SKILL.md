@@ -1,6 +1,11 @@
 ---
 name: icp-builder
 description: Guides product marketers through building a rigorous Ideal Customer Profile (ICP) that drives targeting, messaging, and sales qualification. Use when targeting is too broad, pipeline quality is low, messaging isn't resonating, or entering a new segment. Covers firmographic, technographic, psychographic, and behavioral attributes, plus buying triggers, anti-ICP signals, and activation across marketing and sales.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Ideal Customer Profile (ICP) Builder Skill

@@ -1,6 +1,11 @@
 ---
 name: kramer-fuel-engine
-description: Guides marketers through Emily Kramer's fuel and engine framework for planning balanced marketing campaigns. Use when planning initiatives, diagnosing why campaigns aren't working, or ensuring balance between content creation (fuel) and distribution (engine). Helps you articulate concrete marketing action plans.
+description: Guides marketers through Emily Kramer's fuel and engine framework for planning balanced marketing campaigns. Use when planning initiatives, diagnosing why campaigns aren't working, or ensuring balance between content creation (fuel) and distribution (engine). Helps you articulate concrete marketing action plans. For transforming specific content into multiple formats, use content-multiplication instead.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Emily Kramer Fuel & Engine Marketing Framework Skill

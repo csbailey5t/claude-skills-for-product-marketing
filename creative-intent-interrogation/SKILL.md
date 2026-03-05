@@ -1,6 +1,11 @@
 ---
 name: creative-intent-interrogation
-description: Deeply interrogates creators about the emotional and experiential intent of their work. Works with any content type (writing, video, design, presentations). Pushes creators to articulate specific feelings, audience, takeaways, and overall experience through relentless questioning. Use when beginning creative projects or refining existing work that feels unclear or unfocused.
+description: Deeply interrogates creators about the emotional and experiential intent of their work. Works with any content type (writing, video, design, presentations). Pushes creators to articulate specific feelings, audience, takeaways, and overall experience through relentless questioning. Use when beginning creative projects or refining existing work that feels unclear or unfocused. Do NOT use for messaging strategy (use messaging-architecture) or content distribution planning (use content-multiplication).
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Creative Intent Interrogation Skill
@@ -475,35 +480,7 @@ Once all four dimensions are clear, test for coherence:
 
 ## Interrogation Question Bank
 
-Use these to push deeper:
-
-### WHO Questions
-- "What's happening in their life RIGHT NOW?"
-- "What did they try before this that didn't work?"
-- "What do they believe that's wrong or incomplete?"
-- "Why NOW? What's changed?"
-- "What else could they be doing with their time right now?"
-
-### FEELING Questions
-- "If you could only evoke ONE emotion, what would it be?"
-- "What's the feeling in their body when they finish?"
-- "What do they NOT feel that they might expect to?"
-- "Does the feeling CHANGE during the experience, or stay constant?"
-- "What feeling would be WRONG for this piece?"
-
-### TAKEAWAY Questions
-- "What's the ONE sentence summary of what changes in their mind?"
-- "What belief do they walk in with? What belief do they walk out with?"
-- "What will they do differently tomorrow?"
-- "What will they STOP doing?"
-- "If they remember only ONE thing in 6 months, what should it be?"
-
-### EXPERIENCE Questions
-- "What's the first 5 seconds like?"
-- "Where do you speed up? Where do you slow down?"
-- "Where might they get confused? How do you prevent that?"
-- "Where might they want to quit? How do you keep them going?"
-- "What's the last sentence they read? Why that?"
+For a full bank of deep-dive questions organized by WHO, FEELING, TAKEAWAY, and EXPERIENCE, see `references/question-bank.md`.
 
 ## Output Template: Complete Creative Intent
 
@@ -574,108 +551,7 @@ Ending (80-100%):
 
 ## Example: Complete Interrogation
 
-Let me show a full interrogation flow:
-
-**Claude:** "What are you creating?"
-
-**User:** "An article about product prioritization."
-
-**Claude:** "Okay. Who is this for?"
-
-**User:** "Product managers."
-
-**Claude:** "That's hundreds of thousands of people in completely different situations. What's happening in a product manager's life RIGHT NOW that makes this relevant?"
-
-**User:** "They need to prioritize their roadmap."
-
-**Claude:** "That's always true. What's DIFFERENT or DIFFICULT about prioritization right now that wasn't true 6 months ago?"
-
-**User:** "Budget cuts mean more scrutiny on every decision."
-
-**Claude:** "Good! So this is for product managers facing increased scrutiny due to budget constraints. What do they currently believe about how to handle this scrutiny?"
-
-**User:** "That they need more data to justify decisions."
-
-**Claude:** "And is that belief serving them well?"
-
-**User:** "No, because the data is usually inconclusive and stakeholders want faster answers."
-
-**Claude:** "Perfect. So this is for:
-
-**Product managers who:**
-- Face increased budget scrutiny
-- Believe they need more data to justify decisions
-- Find that data is too slow or inconclusive
-- Feel pressured to make and defend decisions faster
-
-Now: what should they FEEL when they read this?"
-
-**User:** "Inspired to try a new approach."
-
-**Claude:** "Inspired is too generic. What SPECIFIC emotion? Is it relief that there's a better way? Confidence they can do it? Something else?"
-
-**User:** "Maybe relief?"
-
-**Claude:** "Relief from what exactly?"
-
-**User:** "From feeling like they're failing or making unjustifiable decisions."
-
-**Claude:** "Good. Does the feeling stay relief, or does it transform?"
-
-**User:** "It should probably become confidence."
-
-**Claude:** "So the emotional arc is: Recognition → Relief → Confidence. They recognize their struggle, feel relief that there's a solution, build confidence they can do it. Does that feel right?"
-
-**User:** "Yes."
-
-**Claude:** "Okay. What's the TAKEAWAY? What changes in their mind?"
-
-**User:** "They learn a prioritization framework."
-
-**Claude:** "That's information transfer, not a belief shift. What BELIEF changes?"
-
-**User:** "That they don't need perfect data?"
-
-**Claude:** "What do they need INSTEAD of perfect data?"
-
-**User:** "A clear framework for making trade-offs."
-
-**Claude:** "So the belief shift is:
-- **Before:** 'I need more data to make defensible decisions'
-- **After:** 'I need a clear framework for making trade-offs with imperfect data'
-
-What does this enable them to do?"
-
-**User:** "Make faster decisions and defend them better."
-
-**Claude:** "And what do they STOP doing?"
-
-**User:** "Stop waiting for perfect research."
-
-**Claude:** "Excellent. Now, the EXPERIENCE. What's the first thing they encounter? What's the opening feeling?"
-
-**User:** "Probably recognition of their struggle."
-
-**Claude:** "Okay, so you create recognition—a moment they identify with. Do you sit in that pain or move quickly to hope?"
-
-**User:** "Move quickly to hope."
-
-**Claude:** "Good, because you want relief, not frustration. So:
-- **Opening**: Recognition → Hope
-- **Middle**: Learning the framework (building understanding and confidence)
-- **Ending**: Confidence they can do this
-
-How does that sound?"
-
-**User:** "That makes sense."
-
-**Claude:** "Now let's test coherence:
-- Does this feeling (recognition → relief → confidence) serve THIS audience (PMs under pressure)? YES
-- Does this experience deliver that feeling? YES
-- Does this takeaway (framework over data) help this audience? YES
-- Do all four dimensions work together? YES
-
-You have clear creative intent. NOW you can start writing."
+For a full end-to-end interrogation example (walking through all four dimensions with a product prioritization article), see `references/example-interrogation.md`.
 
 ## Skill Invocation Strategy
 

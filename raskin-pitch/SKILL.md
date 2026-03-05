@@ -1,6 +1,11 @@
 ---
 name: raskin-pitch
-description: Guides salespeople and marketers through Andy Raskin's strategic narrative framework for creating compelling sales pitches. Use when developing sales decks, pitch narratives, demo scripts, or strategic messaging. Helps craft pitches that focus on market change, create urgency, and position solutions as essential rather than optional.
+description: Guides salespeople and marketers through Andy Raskin's strategic narrative framework for creating compelling sales pitches. Use when developing sales decks, pitch narratives, demo scripts, or strategic messaging. Helps craft pitches that focus on market change, create urgency, and position solutions as essential rather than optional. Use this for narrative-first storytelling built around market change. For structured buyer-decision pitches, use dunford-sales-pitch instead.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Andy Raskin Strategic Narrative Framework Skill

@@ -1,6 +1,11 @@
 ---
 name: launch-planning
 description: Guides product marketers through planning and executing product launches. Use when scoping a launch, building a launch brief, aligning cross-functional teams, or creating the launch asset plan. Covers launch tiering, goal-setting, stakeholder alignment, asset planning, and success measurement. Based on T1/T2/T3 launch tiering and Martina Lauchengco's LOVED framework.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Product Launch Planning Skill

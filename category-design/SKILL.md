@@ -1,6 +1,11 @@
 ---
 name: category-design
-description: Guides product marketers and founders through the Play Bigger category design framework. Use when you believe you're creating something that doesn't fit existing categories, when "better" isn't enough to win, or when you want to define the market rather than compete in someone else's. Covers developing a point of view, naming the category, designing the ecosystem, and planning a lightning strike moment. Based on Play Bigger by Ramadan, Peterson, Lochhead, and Maney.
+description: Guides product marketers and founders through the Play Bigger category design framework. Use when you believe you're creating something that doesn't fit existing categories, when "better" isn't enough to win, or when you want to define the market rather than compete in someone else's. Covers developing a point of view, naming the category, designing the ecosystem, and planning a lightning strike moment. Do NOT use if you're competing in an established category where "better" works — use dunford-positioning instead. Based on Play Bigger by Ramadan, Peterson, Lochhead, and Maney.
+compatibility: Works across Claude.ai, Claude Code, and API. No external tools or MCP servers required.
+metadata:
+  author: Scott Bailey
+  version: 1.0.0
+  category: product-marketing
 ---
 
 # Category Design Skill
