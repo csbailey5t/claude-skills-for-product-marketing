@@ -85,7 +85,7 @@ Post-purchase. Are they satisfied? Is the product doing the job they hired it fo
 
 | Goal | Who to interview |
 |------|-----------------|
-| Understand why customers switch to you | Recent buyers (within 90 days of purchase) |
+| Understand why customers switch to you | Recent buyers (roughly the last three months, while the story is fresh) |
 | Understand why customers leave competitors | Customers who switched from a named competitor |
 | Understand why customers don't switch | Prospects who evaluated and chose a competitor or did nothing |
 | Understand retention risk | Customers who almost churned but stayed |
@@ -98,9 +98,9 @@ Post-purchase. Are they satisfied? Is the product doing the job they hired it fo
 - Can speak to their context before the purchase, not just what they think now
 
 **How many interviews:**
-- You typically see pattern saturation at 8-12 interviews per segment
+- Patterns usually start repeating somewhere around 8-12 interviews per segment — the exact count matters less than noticing when you stop hearing new stories
 - Don't interview 30 people before synthesizing — you'll drown in data
-- 3-5 interviews per segment is enough to identify the first patterns; then decide whether to continue
+- A first batch of 3-5 per segment is enough to identify early patterns; then decide whether to continue
 
 **Important: Avoid surveys for this purpose.** Surveys capture what people say they did. Interviews capture the actual story of what happened. The difference is enormous.
 
@@ -116,6 +116,8 @@ Post-purchase. Are they satisfied? Is the product doing the job they hired it fo
 - No leading questions about your product's features or value
 
 ## The Interview Guide
+
+This guide — and the recruiting and opening scripts — is a starting guide. Adapt the wording to the product, the category, and the person being interviewed; keep the technique (specific events, no hypotheticals) intact.
 
 ### Opening
 
@@ -292,97 +294,23 @@ This is a Job. It's not a feature request. It's not a demographic. It's a specif
 
 **Important:** Most products are hired for multiple jobs. Different customer segments may hire the same product for different jobs. The Switch Interview helps you understand which jobs actually drive purchase.
 
-### Output Report Template
+### Reporting the Findings
 
-```
-# Switch Interview Research Report
+A useful default shape for the research report:
 
-## Research Overview
-Interviews conducted: [Number]
-Segment(s): [Who was interviewed]
-Date range: [When interviews were conducted]
-Researcher: [Name]
+- **Research overview** — how many interviews, which segments, when
+- **The buying story (composite)** — the typical Push, Pull, Anxieties, and Habits, told with actual customer language and quotes; include the common trigger events, how long Push builds before action, and who champions the status quo
+- **The jobs being done** — the primary job statement, plus any secondary jobs
+- **Implications** — for messaging (language to use, anxieties to address), positioning (real competitive alternatives), product (jobs not fully served), and sales (questions that confirm buying triggers)
 
----
-
-## The Buying Story (Composite)
-
-### What Sets the Stage (Push)
-[2-3 paragraphs describing the typical situation before they started looking.
-Use actual customer language, in quotes where possible.]
-
-Common triggers:
-• [Specific event type]
-• [Specific event type]
-
-How long Push builds before action: [Weeks/months average]
-
-### What They Were Looking For (Pull)
-[What vision of progress attracted them. What does success look like to them?]
-
-What they wanted to be able to do:
-• [Specific progress]
-• [Specific progress]
-
-Phrases they used: "[Actual quote]", "[Actual quote]"
-
-### What Almost Stopped Them (Anxieties)
-[What they were worried about]
-
-Most common fears:
-• [Fear + how it manifests in the sales process]
-• [Fear + how it manifests in the sales process]
-
-How they got past them:
-• [What helped]
-• [What helped]
-
-### What They Were Leaving Behind (Habits)
-[What comfort or familiarity they were giving up]
-
-What they missed:
-• [Specific habit or capability]
-Status quo champions:
-• [Who pushed back internally and why]
-
----
-
-## The Jobs Being Done
-
-### Primary Job
-"When [context], I want to [progress], so I can [higher goal]."
-
-### Secondary Jobs (if found)
-"When [context], I want to [progress], so I can [higher goal]."
-
----
-
-## Implications
-
-### For Messaging
-• [What language to use]
-• [What anxieties to address proactively]
-• [What vision of success to paint]
-
-### For Positioning
-• [What context to establish]
-• [What competitive alternatives are really being considered]
-
-### For Product
-• [What job is not being fully served]
-• [What people do immediately after using the product — are we serving that?]
-
-### For Sales
-• [What questions to ask to confirm buying triggers are present]
-• [What anxieties to proactively address and when]
-```
+Adjust the shape to what the research actually surfaced — the composite story and the jobs statements are the parts stakeholders remember.
 
 ## Best Practices
 
 ### Do's
 - **Anchor on specific events, not opinions** — "Walk me through what happened" beats "why did you choose us?"
 - **Follow the energy** — When a subject gets animated or emotional, dig there
-- **Let silence work** — After an answer, wait 3 seconds before asking the next question
+- **Let silence work** — After an answer, pause a beat longer than feels comfortable; people fill the silence with the good material
 - **Record with permission** — You cannot take good notes and conduct a good interview simultaneously
 - **Synthesize after every 3-4 interviews** — Don't wait until you have 20 before looking for patterns
 
@@ -405,7 +333,7 @@ Interviews that only capture what attracted people to your product miss anxiety 
 
 **Pitfall 3: Interviewing too recently acquired customers only**
 New customers haven't had time to learn if the product does the job
-→ Solution: Interview at 30-90 days post-purchase for honest appraisal, not 5 days in
+→ Solution: Interview a month or more after purchase — long enough to know if the product is doing the job, recent enough to remember the story
 
 **Pitfall 4: Interviewing advocates**
 Your biggest fans will tell you what you want to hear
@@ -415,31 +343,11 @@ Your biggest fans will tell you what you want to hear
 10 unanalyzed interviews teach less than 5 analyzed ones
 → Solution: Synthesize after each batch of 3-5 before deciding whether more interviews are needed
 
-## Interactive Approach
+## Working Through This Skill
 
-When guiding someone through this framework, Claude should:
-
-1. **Clarify the research goal** — What decision will these interviews inform?
-2. **Design the interview guide** — Which sections matter most for this goal?
-3. **Plan the recruitment** — Who specifically should be interviewed?
-4. **Coach the interview technique** — Practice the questions and follow-ups
-5. **Guide synthesis** — After interviews are done, help identify push/pull/anxiety/habit patterns
-6. **Draw implications** — Translate patterns into messaging, positioning, and product recommendations
+Start by clarifying what decision the research will inform, then plan who to interview and adapt the guide to that context. Coach interview technique before the interviews happen, guide synthesis of push/pull/anxiety/habit patterns afterward, and finish by translating the patterns into implications for messaging, positioning, product, and sales. The goal is research that changes how the team thinks about their buyers — not a slide deck that confirms what they already believed.
 
 ## References
 - Moesta, Bob, and Greg Engle. *Demand-Side Sales 101: Stop Selling and Help Your Customers Make Progress.* 2020.
 - Christensen, Clayton M., Taddy Hall, Karen Dillon, and David S. Duncan. *Competing Against Luck: The Story of Innovation and Customer Choice.* 2016.
 - Business of Software. ["Bob Moesta: Understanding Your Customer Jobs-to-be-Done."](https://businessofsoftware.org/talks/understanding-your-customer-jtbd/) 2023.
-
-## Skill Invocation Strategy
-
-When invoked, guide the user through:
-1. Clarifying what they're trying to learn and why
-2. Identifying who to interview and how many
-3. Adapting the interview guide for their specific context
-4. Coaching on interview technique — how to follow the energy, when to probe
-5. Structuring synthesis across interviews
-6. Articulating the jobs being done and the four forces
-7. Drawing specific implications for messaging, positioning, and sales
-
-The goal is research that changes how the team thinks about their buyers — not a slide deck that confirms what they already believed.

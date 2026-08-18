@@ -11,13 +11,13 @@ metadata:
 # Emily Kramer Fuel & Engine Marketing Framework Skill
 
 ## Overview
-This skill implements Emily Kramer's fuel and engine framework for planning effective marketing campaigns. The framework divides marketing work into two interdependent components - fuel (what you say) and engine (how you distribute it) - and ensures both are planned together. Most marketing failures stem from creating fuel without distribution plans, or building distribution without compelling content.
+This skill implements Emily Kramer's fuel and engine framework for planning effective marketing. The framework divides marketing work into two interdependent components — fuel (what you say) and engine (how you distribute it) — and ensures both are planned together. Most marketing failures stem from creating fuel without distribution plans, or building distribution without compelling content.
 
 ## When to Use This Skill
 - Planning a new marketing campaign or initiative
 - Diagnosing why current marketing efforts aren't working
-- Deciding what to prioritize in your marketing work
-- Evaluating whether you have the right balance in your plans
+- Deciding what to prioritize in marketing work
+- Evaluating whether plans have the right balance
 - Identifying bottlenecks in marketing performance
 - Creating quarterly marketing plans
 
@@ -27,32 +27,18 @@ Emily Kramer led and built marketing teams at Asana, Carta, Ticketfly, and Astro
 ## Core Framework: Fuel & Engine
 
 ### Fuel
-**Definition:** Everything you say to your audience - the content, messaging, and creative you produce.
+**Definition:** Everything you say to your audience — the content, messaging, and creative you produce.
 
-**Examples:**
-- Website copy (short-form)
-- Blog posts and articles (long-form)
-- Ad images and videos
-- Email campaigns
-- Product messaging
-- Social media posts
-- Explainer videos
-- Case studies
-- Slide decks
+**Examples:** website copy, blog posts and articles, ad images and videos, email campaigns, product messaging, social posts, explainer videos, case studies, slide decks.
 
-**Key Characteristic:** Fuel is the "what" - what you're communicating.
+Fuel is the "what" — what you're communicating.
 
 ### Engine
 **Definition:** The channels, processes, tools, and metrics you use to get fuel out to your audience and track results.
 
-**Examples:**
-- Distribution channels (paid ads, SEO, email, social, partnerships)
-- Marketing processes (campaign planning, content workflows)
-- Tools and technology (CRM, marketing automation, analytics, ad platforms)
-- Metrics and dashboards (how you measure and optimize)
-- Promotion strategies and tactics
+**Examples:** distribution channels (paid ads, SEO, email, social, partnerships), marketing processes (campaign planning, content workflows), tools and technology (CRM, marketing automation, analytics, ad platforms), metrics and dashboards, promotion strategies and tactics.
 
-**Key Characteristic:** Engine is the "how" - how you deliver and measure.
+Engine is the "how" — how you deliver and measure.
 
 ## Core Principle: Custom-Built Interdependence
 
@@ -60,130 +46,64 @@ Emily Kramer led and built marketing teams at Asana, Carta, Ticketfly, and Astro
 
 This means:
 - Fuel created without considering distribution channels will fail (great content no one sees)
-- Engine built without considering content capabilities will fail (distribution channels with nothing valuable to distribute)
-- What works for one company won't work for another - both must be tailored to your business, audience, and resources
+- Engine built without considering content capabilities will fail (channels with nothing valuable to distribute)
+- What works for one company won't work for another — both must be tailored to your business, audience, and resources
 
 ## The Central Problem: Imbalance
 
-**Most marketers over-index on one element, sacrificing the other.**
+Most marketers over-index on one element, sacrificing the other. The point isn't a literal even split of hours — it's that planning, prioritization, and performance analysis must always consider both, because each is useless without the other.
 
 ### Over-Indexing on Fuel
 **Symptoms:**
-- Creating tons of content
-- Blog posts, whitepapers, videos piling up
+- Creating tons of content; blog posts, whitepapers, videos piling up
 - Thinking "we need more distribution"
 - Content sits unused or underperforms
 - Can't prove ROI of content efforts
 
-**Root Cause:** Creating fuel without a distribution engine to get it to the right audience at the right time.
+**Root cause:** Creating fuel without a distribution engine to get it to the right audience at the right time.
 
-**Example:**
-You produce 20 blog posts per month but have:
-- No SEO strategy (posts don't rank)
-- No email nurture engine (posts don't reach prospects)
-- No paid promotion budget (posts don't get amplified)
-- No sales enablement process (posts don't help close deals)
-
-**Result:** Lots of fuel, no combustion.
+**Example:** You produce 20 blog posts a month but have no SEO strategy (posts don't rank), no email nurture (posts don't reach prospects), no paid promotion (posts don't get amplified), and no sales enablement process (posts don't help close deals). Lots of fuel, no combustion.
 
 ### Over-Indexing on Engine
 **Symptoms:**
 - Channels set up and ready to go
-- Ads running with mediocre creative
-- Emails sending with weak messaging
+- Ads running with mediocre creative; emails sending with weak messaging
 - Thinking "we need better content"
 - Distribution is working but conversion is terrible
 
-**Root Cause:** Building distribution infrastructure without quality fuel to make it effective.
+**Root cause:** Building distribution infrastructure without quality fuel to make it effective.
 
-**Example:**
-You have:
-- Paid ad campaigns across 5 channels
-- Email automation sequences set up
-- Social media posting schedule
-- But generic messaging that doesn't differentiate
-- Weak creative that doesn't stop the scroll
-- No compelling offer or narrative
+**Example:** Paid campaigns across five channels, email automation, a social posting schedule — but generic messaging that doesn't differentiate, weak creative that doesn't stop the scroll, no compelling offer or narrative. Distribution without substance.
 
-**Result:** Distribution without substance.
+## Diagnosing the Balance
 
-## Diagnostic Framework
+**Assess the current state.** Where does the time actually go — creating content or distributing and optimizing it? What gets prioritized in planning? When marketing underperforms, what gets blamed — creative or distribution? Is there a backlog of unused content, or empty channels?
 
-### Step 1: Assess Your Current Work
-
-Ask yourself:
-- What % of my time goes to creating content vs. distributing and optimizing it?
-- What gets prioritized in my planning: content projects or channel optimization?
-- When marketing underperforms, what do I blame: creative or distribution?
-- Do I have a backlog of unused content or empty channels?
-
-**Balanced State:**
-- Roughly 50/50 split of effort between fuel creation and engine building
-- Planning includes both content projects AND distribution strategies
-- Performance analysis looks at both content quality and channel effectiveness
-
-**Red Flags:**
+Red flags:
 - "I'll create the content first, then figure out distribution" (fuel-heavy)
 - "I have the channels ready, just need better content" (engine-heavy)
-- Content created without knowing where/how it will be distributed
+- Content created without knowing where or how it will be distributed
 - Channels set up without clarity on what content will fill them
 
-### Step 2: Diagnose Your Imbalance
+**Recognize the imbalance.** Fuel-heavy looks like: content with no clear path to audience, distribution planning as an afterthought, no answer to "how many leads did that post generate?", sales and customers unaware of half the content that exists. Engine-heavy looks like: weak creative in well-built channels, the same content repurposed across everything, channel tests easy but compelling new content hard, funnel metrics known but the content itself uninspiring.
 
-**If you're fuel-heavy:**
-- You create content but have no clear path to audience
-- New content projects are easy to start; distribution planning is an afterthought
-- You can't answer "how many leads did that blog post generate?"
-- Sales/customers don't know half the content you've created
+**Find the bottleneck.** The clarifying questions: If distribution were perfect, would the current content convert? If content were perfect, would the current channels get it to the right people? What would make the biggest impact — better messaging or better reach?
 
-**If you're engine-heavy:**
-- Channels are set up but creative is weak
-- You're repurposing the same content across everything
-- Channel tests are easy; creating new compelling content is hard
-- You know your funnel metrics but the content itself isn't compelling
+**Test empirically when the answer isn't obvious:**
+1. **Test the fuel:** show your best content to target audience members one-on-one. Is the reaction "this is really valuable" or "meh"?
+2. **Test the engine:** promote mediocre content through your channels. Does it reach the right people? Do they see it?
+3. **Read the metrics:** high impressions but low engagement = fuel problem. Low impressions but high engagement from those who do see it = engine problem.
 
-### Step 3: Identify the Bottleneck
-
-Ask:
-- If I had perfect distribution, would my current content convert?
-- If I had perfect content, would my current channels get it to the right people?
-- Where do I hit friction: creating fuel or distributing it?
-- What would make the biggest impact: better messaging or better reach?
-
-**Common Bottlenecks:**
-
-**Fuel Bottleneck:**
-- "I could run more ads but my creative doesn't perform"
-- "Email list is ready but I have nothing valuable to send"
-- "Sales wants enablement content but I haven't created it"
-
-**Engine Bottleneck:**
-- "I create great content but no one sees it"
-- "Case studies exist but aren't used in sales process"
-- "Blog posts published but don't drive any pipeline"
+Bottlenecks tend to announce themselves in phrases like "I could run more ads but my creative doesn't perform" or "email list is ready but I have nothing valuable to send" (fuel bottleneck), versus "I create great content but no one sees it" or "case studies exist but aren't used in the sales process" (engine bottleneck).
 
 ## Planning Framework: The GACC Brief
 
-**For every marketing initiative, complete a GACC Brief to ensure fuel/engine balance:**
+For every marketing initiative, complete a GACC Brief to ensure fuel/engine balance:
 
-### G = Goals
-- What business outcome are we driving?
-- What metrics will we move?
-
-### A = Audience
-- Who exactly are we targeting?
-- What do they care about?
-- Where are they in the buyer journey?
-
-### C = Channel/Distribution
-- What channels will we use?
-- How will this fuel get distributed?
-- What's the promotional plan?
-
-### C = Creative/Content
-- What's the core message?
-- What format (blog, video, ad, etc.)?
-- What's the offer or call to action?
+- **G = Goals** — What business outcome are we driving? What metrics will we move?
+- **A = Audience** — Who exactly are we targeting? What do they care about? Where are they in the buyer journey?
+- **C = Channel/Distribution** — What channels will we use? How will this fuel get distributed? What's the promotional plan?
+- **C = Creative/Content** — What's the core message? What format? What's the offer or call to action?
 
 **Example GACC Brief:**
 
@@ -201,219 +121,84 @@ A - Audience:
 - Pain point: [specific technical problem]
 
 C - Channel/Distribution:
-- Hacker News (2 posts timed for max visibility)
+- Hacker News (posts timed for max visibility)
 - Dev.to and Medium cross-posts
-- Email to 5,000 developer subscribers
-- Paid promotion in newsletters (TLDR, Console)
+- Email to developer subscriber list
+- Paid promotion in developer newsletters
 
 C - Creative/Content:
-- Technical deep-dive blog post (2,000 words)
+- Technical deep-dive blog post
 - Working code examples in GitHub repo
 - Comparison benchmark vs. existing approaches
 - "Try it free" CTA with 5-minute quickstart
 ```
 
-**Why GACC Works:**
-Forces you to think through both what you'll create (Creative) and how it will reach people (Channel) BEFORE starting work. If you can't fill in the Channel section, you have an engine problem. If you can't fill in the Creative section convincingly, you have a fuel problem.
+**Why GACC works:** It forces you to think through both what you'll create (Creative) and how it will reach people (Channel) before starting work. If you can't fill in the Channel section, you have an engine problem. If you can't fill in the Creative section convincingly, you have a fuel problem.
 
 ## Balancing Strategy
 
-### Principle 1: Set Balanced Goals
+### Set Balanced Goals
+Goals should force both fuel and engine work.
 
-**Set goals that force both fuel and engine work.**
+- "Publish 20 blog posts this quarter" → fuel-only
+- "Launch 3 new paid channels this quarter" → engine-only
+- "Generate 100 SQLs from content-driven channels this quarter" → requires compelling content AND effective distribution
 
-**Unbalanced Goal:** "Publish 20 blog posts this quarter"
-→ Fuel-only focus
+Other balanced examples: a target click-through rate on nurture campaigns (good emails AND good content to link to); pipeline from paid ads at a target CAC (effective channels AND compelling creative); qualified demo requests from SEO (ranking content AND conversion-focused pages).
 
-**Unbalanced Goal:** "Launch 3 new paid channels this quarter"
-→ Engine-only focus
+### Plan Projects with Balance
+In quarterly planning, explicitly label fuel vs. engine projects. A quarter of "rewrite website copy, create case studies, launch newsletter, produce demo video, refresh brand guidelines" is five fuel projects and no engine — lots of new content, no improvement in distribution. A balanced quarter pairs the fuel (homepage rewrite, case studies, demo video) with the engine to move it (paid social promoting the case studies, a nurture sequence using the new content, attribution tracking for content touchpoints).
 
-**Balanced Goal:** "Generate 100 SQLs from content-driven channels this quarter"
-→ Requires both compelling content (fuel) AND effective distribution (engine)
+### Map Fuel to Engine
+For each piece of fuel, identify its engine:
 
-**Example Balanced Goals:**
-- "Achieve 30% email click-through rate on nurture campaigns" (requires good emails AND good content to link to)
-- "Generate $500K pipeline from paid ads at <$200 CAC" (requires effective channels AND compelling creative)
-- "Get 50 qualified demo requests from SEO" (requires ranking content AND conversion-focused pages)
+| Fuel | Engine (how it reaches the audience) |
+|------|--------------------------------------|
+| Blog post on SEO best practices | Optimized for search; promoted in newsletter; shared in relevant communities; used in sales enablement |
+| Customer case study | Featured in paid ads; sent to prospects in sales process; published on website; shared on social |
+| Product demo video | Embedded on homepage; used in outbound sequences; promoted via YouTube ads; shared in onboarding emails |
 
-### Principle 2: Plan Projects with Balance
+If you can't fill in the engine column, you have a distribution problem. If the engine column is full but the fuel is weak, you have a content problem.
 
-**In quarterly planning, explicitly track fuel vs. engine projects.**
+## Applying the Diagnosis
 
-**Unbalanced Quarter:**
-```
-Q2 Projects:
-1. Rewrite website copy (fuel)
-2. Create new case studies (fuel)
-3. Launch customer newsletter (fuel)
-4. Produce demo video (fuel)
-5. Refresh brand guidelines (fuel)
+**When content isn't driving results** (fuel-heavy): check whether the basics of an engine exist — SEO optimization, promotion beyond publishing, sales awareness of the content, attribution to pipeline. The usual fix is to shift effort from new content toward distribution systems for the best existing content; some teams find it worth pausing new content entirely for a stretch to build the engine, but treat that as a situational option, not a rule.
 
-Result: Lots of new content, no improvement in distribution
-```
+**When channels run but creative underperforms** (engine-heavy): ask when creative was last refreshed, whether messaging is differentiated or generic, whether it speaks to specific audience pain points. The fix is fuel investment — a messaging framework built on customer insights, actual customer language in ads, more creative variants and value-proposition tests.
 
-**Balanced Quarter:**
-```
-Q2 Projects:
-FUEL:
-1. Rewrite homepage and pricing pages
-2. Create 3 customer case studies
-3. Develop new demo video
-
-ENGINE:
-1. Launch paid social campaigns to promote case studies
-2. Build email nurture sequence that uses new content
-3. Implement attribution tracking for content touchpoints
-
-Result: New content AND systems to distribute it effectively
-```
-
-### Principle 3: Map Fuel to Engine
-
-**For each piece of fuel, identify the engine:**
-
-| Fuel | Engine (How it reaches audience) |
-|------|----------------------------------|
-| Blog post on SEO best practices | - Optimized for search<br>- Promoted in email newsletter<br>- Shared in relevant Slack communities<br>- Used in sales enablement |
-| Customer case study | - Featured in paid ads<br>- Sent to prospects in sales process<br>- Published on website testimonial page<br>- Shared on social media |
-| Product demo video | - Embedded on homepage<br>- Used in outbound sales sequences<br>- Promoted via YouTube ads<br>- Shared in onboarding emails |
-
-**If you can't fill in the engine column, you have a distribution problem.**
-**If engine column is full but fuel is weak, you have a content problem.**
-
-## Common Scenarios and Solutions
-
-### Scenario 1: "I create tons of content but it doesn't drive results"
-
-**Diagnosis:** Over-indexed on fuel, weak engine
-
-**Questions to Ask:**
-- Do I have SEO optimization for blog content?
-- Are blog posts promoted beyond publishing?
-- Does sales know content exists and how to use it?
-- Do I measure content contribution to pipeline?
-
-**Solution:**
-- Pause new content creation for 4-6 weeks
-- Build distribution systems for existing content
-- Implement content promotion playbook
-- Create attribution tracking
-- Document content usage in sales process
-
-### Scenario 2: "My ads are running but creative performance is terrible"
-
-**Diagnosis:** Over-indexed on engine, weak fuel
-
-**Questions to Ask:**
-- When did I last refresh ad creative?
-- Is messaging differentiated or generic?
-- Does creative speak to specific audience pain points?
-- Am I testing multiple creative approaches?
-
-**Solution:**
-- Invest in better creative production
-- Develop messaging framework based on customer insights
-- Create more creative variants to test
-- Use actual customer language in ads
-- A/B test different value propositions
-
-### Scenario 3: "I'm a solo marketer - how do I balance?"
-
-**Diagnosis:** Resource constraints require intentional balance
-
-**Solution:**
-- Use GACC briefs religiously - don't create fuel without distribution plan
-- Repurpose fuel extensively (1 piece of content → many formats)
-- Choose 2-3 channels max and do them well (engine constraint)
-- Outsource either fuel creation or engine optimization, keep one in-house
-- Measure ruthlessly to know what's working
-- Don't try to do everything - pick your battles
-
-### Scenario 4: "I don't know if my problem is fuel or engine"
-
-**Diagnosis:** Need systematic diagnosis
-
-**Solution Steps:**
-1. **Test the fuel:** Show your best content to target audience members 1-on-1. Is their reaction "this is really valuable" or "meh"?
-2. **Test the engine:** Promote mediocre content through your channels. Does it reach the right people? Do they see it?
-3. **Look at metrics:** High impressions but low engagement = fuel problem. Low impressions but high engagement when people see it = engine problem.
+**When you're a solo marketer:** constraints make balance more important, not less. Use GACC briefs consistently, repurpose fuel extensively (one piece of content → many formats), limit yourself to two or three channels done well, consider outsourcing either fuel creation or engine optimization while keeping the other in-house, and measure enough to know what's working.
 
 ## Best Practices
 
 ### Do's
-- **Think in systems** - Every fuel should have a distribution engine; every engine should have quality fuel
-- **Use GACC briefs** - Prevent fuel/engine imbalance by planning both upfront
-- **Measure both** - Track content quality metrics AND distribution metrics
-- **Repurpose strategically** - Maximize fuel value by distributing through multiple engine channels
-- **Be honest about bottlenecks** - Don't create fuel if distribution is the issue (and vice versa)
+- **Think in systems** — every fuel should have a distribution engine; every engine should have quality fuel
+- **Use GACC briefs** — prevent imbalance by planning both upfront
+- **Measure both** — track content quality metrics AND distribution metrics
+- **Repurpose strategically** — maximize fuel value by distributing through multiple engine channels
+- **Be honest about bottlenecks** — don't create fuel if distribution is the issue, and vice versa
 
 ### Don'ts
-- **Don't create fuel without a distribution plan** - Content without audience is wasted effort
-- **Don't build channels without compelling content** - Distribution without substance fails
-- **Don't copy others' fuel/engine mix** - What works for Stripe won't work for your startup
-- **Don't ignore the imbalance** - If you're 90% fuel, creating more fuel won't fix the problem
-- **Don't assume more is better** - Sometimes less fuel with better distribution wins
-
-## Interactive Diagnostic Approach
-
-When guiding someone through this framework, Claude should:
-
-1. **Diagnose current state** - Ask about resource allocation and what gets prioritized
-2. **Identify the imbalance** - Push to determine whether they're fuel-heavy or engine-heavy
-3. **Find the bottleneck** - What would make the biggest impact: better content or better distribution?
-4. **Challenge assumptions** - "You say you need more content, but can you distribute what you have?"
-5. **Create balanced plans** - Ensure initiatives include both fuel and engine components
-6. **Map fuel to engine** - For every piece of content, ensure there's a distribution plan
-
-## Example Diagnostic Dialogue Flow
-
-**Claude:** "Let's diagnose your fuel/engine balance. What % of your marketing effort goes to creating content vs. distributing and optimizing it?"
-
-**User:** "Probably 80% content creation, 20% distribution."
-
-**Claude:** "That's fuel-heavy. Let's test if that's the bottleneck. When you publish content, do you have clear distribution channels that get it to your target audience? Or does it mostly just get published and hope people find it?"
-
-**User:** "Honestly, we mostly publish and share on social. We don't have robust distribution."
-
-**Claude:** "So you're creating fuel faster than your engine can distribute it. Before creating more content, what would happen if you paused new content for a month and focused on building distribution systems for your best existing content?"
-
-**User:** "That feels scary - we'd have nothing new to show."
-
-**Claude:** "But you have a backlog of good content no one's seeing. That's the imbalance. Your instinct is to create more fuel, but your actual bottleneck is engine. Let's build a distribution system for your top 10 pieces of content first. Then when you create new fuel, you'll have an engine to push it through."
-
-[Continue diagnosing and building balanced plan]
+- **Don't create fuel without a distribution plan** — content without audience is wasted effort
+- **Don't build channels without compelling content** — distribution without substance fails
+- **Don't copy others' fuel/engine mix** — what works for Stripe won't work for your startup
+- **Don't ignore the imbalance** — if you're 90% fuel, creating more fuel won't fix the problem
+- **Don't assume more is better** — sometimes less fuel with better distribution wins
 
 ## Integration with Other Frameworks
 
-**Fuel/Engine works alongside:**
-- **Positioning (April Dunford)** - Positioning informs fuel (what you say)
-- **Strategic Narrative (Andy Raskin)** - Narrative is fuel; sales process is engine
-- **Customer Research** - Research informs both fuel messaging and engine channel selection
+- **Positioning (April Dunford)** — positioning informs fuel (what you say)
+- **Strategic Narrative (Andy Raskin)** — narrative is fuel; sales process is engine
+- **Customer research** — informs both fuel messaging and engine channel selection
 
-**Sequencing:**
-1. Get positioning right (defines target audience and differentiation)
-2. Use positioning to create fuel (messaging, content)
-3. Build engine to distribute fuel to target audience
-4. Measure and optimize both fuel quality and engine effectiveness
+Sequencing: get positioning right (target audience and differentiation), use it to create fuel, build the engine to distribute that fuel, then measure and optimize both.
 
 ## Key Metrics to Track
 
-### Fuel Metrics
-- Content engagement rate (time on page, video completion, email clicks)
-- Conversion rate of content CTAs
-- Sales usage of content (% of deals where content was used)
-- Content quality score (audience feedback, NPS of content)
+**Fuel metrics:** content engagement (time on page, video completion, email clicks), conversion rate of content CTAs, sales usage of content, audience feedback on content quality.
 
-### Engine Metrics
-- Channel reach (impressions, audience size)
-- Distribution efficiency (cost per impression, cost per click)
-- Attribution (which channels drive pipeline)
-- Channel optimization (CTR, conversion rate by channel)
+**Engine metrics:** channel reach, distribution efficiency (cost per impression/click), attribution (which channels drive pipeline), channel optimization (CTR, conversion rate by channel).
 
-### Balanced Metrics (Require Both)
-- **Marketing Qualified Leads (MQLs)** - Requires compelling fuel AND effective distribution
-- **Pipeline from marketing** - Requires valuable content AND channels that reach buyers
-- **Cost per acquisition** - Optimizing requires both better creative (fuel) and better targeting (engine)
+**Balanced metrics (require both):** MQLs, pipeline from marketing, cost per acquisition — each demands compelling fuel and effective distribution, which is why they're the goals worth setting.
 
 ## Campaign Planning Template
 
@@ -421,35 +206,19 @@ When guiding someone through this framework, Claude should:
 # [Campaign Name] Fuel/Engine Plan
 
 ## GACC Brief
-
-**Goals:**
-- [Business outcome]
-- [Metrics to move]
-
-**Audience:**
-- [Specific segment]
-- [Pain point]
-- [Buyer journey stage]
-
-**Channel (Engine):**
-- [Channel 1 + promotion strategy]
-- [Channel 2 + promotion strategy]
-- [Measurement approach]
-
-**Creative (Fuel):**
-- [Format]
-- [Core message]
-- [Offer/CTA]
+Goals: [Business outcome, metrics to move]
+Audience: [Specific segment, pain point, buyer journey stage]
+Channel (Engine): [Channels + promotion strategy, measurement approach]
+Creative (Fuel): [Format, core message, offer/CTA]
 
 ## Fuel Deliverables
-□ [Asset 1]
-□ [Asset 2]
-□ [Asset 3]
+[ ] [Asset 1]
+[ ] [Asset 2]
 
 ## Engine Deliverables
-□ [Distribution channel setup]
-□ [Promotion strategy implementation]
-□ [Tracking/measurement setup]
+[ ] [Distribution channel setup]
+[ ] [Promotion strategy implementation]
+[ ] [Tracking/measurement setup]
 
 ## Balance Check
 - [ ] Both fuel and engine have clear deliverables
@@ -459,14 +228,3 @@ When guiding someone through this framework, Claude should:
 
 ## References
 - Kramer, Emily. ["Building an efficient marketing machine: the fuel & the engine."](https://newsletter.mkt1.co/p/fuel-engine) *MKT1 Newsletter*, 2021.
-
-## Skill Invocation Strategy
-
-When invoked, guide the user through:
-1. Diagnosing their current fuel/engine balance
-2. Identifying whether they're fuel-heavy or engine-heavy
-3. Finding the actual bottleneck preventing results
-4. Creating GACC briefs for planned initiatives
-5. Building a balanced campaign plan with both fuel and engine components
-
-The goal is to ensure every marketing initiative has both compelling content (fuel) and effective distribution (engine) planned together from the start.
