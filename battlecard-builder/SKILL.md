@@ -71,17 +71,7 @@ Ask these questions:
 - Check G2, Trustpilot, or Capterra for how they describe themselves vs. what customers say
 - Look for where they avoid being specific — that often reveals weaknesses
 
-**Example Output:**
-```
-How [Competitor] Positions Themselves:
-
-Headline: "The all-in-one platform for [category]"
-Target customer: Mid-market teams of 50-500
-Main claims: Faster implementation, simpler pricing, native integrations
-Category claim: [Category name they use]
-Recent emphasis: Enterprise expansion, AI features announced Q3
-Price point: $X/seat/month (confirmed from their pricing page)
-```
+Capture the output as a short profile: their headline positioning, target customer, main claims, category claim, recent emphasis, and price point (confirmed from their pricing page, not hearsay).
 
 ### Phase 2: Their Honest Strengths
 
@@ -134,25 +124,7 @@ Ask these questions:
 - Connect each weakness to a customer outcome, not just a feature difference
 - Avoid weaknesses your reps can't articulate clearly in 10 seconds
 
-**Example Output:**
-```
-Where [Competitor] Falls Short:
-
-⚠ Scalability ceiling: [Specific limitation with evidence]
-   Impact: Customers outgrow them at [threshold], which is why [X customers] switched to us
-
-⚠ [Feature gap]: Cannot do [specific thing] natively
-   Impact: Requires [workaround] that adds [hours/cost/risk]
-
-⚠ Pricing inflection: Their per-seat model becomes significantly more expensive at [threshold]
-   Impact: Sticker shock at renewal for growing teams; average cost at 100 users is $X vs. our $Y
-
-⚠ Support model: Community-only below [tier], no dedicated CSM
-   Impact: Customers who need hands-on implementation support don't get it
-
-⚠ Security/compliance: Not [specific cert they lack]
-   Impact: Disqualified for regulated industries or enterprise security reviews
-```
+Write each weakness as the specific limitation plus its customer impact — common categories include scalability ceilings, feature gaps that require workarounds, pricing inflection points at scale, support-model gaps, and missing security or compliance certifications.
 
 ### Phase 4: Our Differentiated Value in Context
 
@@ -171,22 +143,7 @@ Ask these questions:
 - If you don't have customer proof specifically against this competitor, that's a gap to fill
 - Keep to 3-4 points maximum — reps won't remember more
 
-**Example Output:**
-```
-What We Have That [Competitor] Doesn't:
-
-1. [Specific capability]
-   Why it matters against them: [Competitor] requires [workaround]. We [outcome] natively.
-   Proof: "[Customer quote]" — [Customer], [Role] at [Company]
-
-2. [Specific capability]
-   Why it matters against them: Their [limitation] means [customer consequence]. Our approach [outcome].
-   Proof: [Customer] switched from [Competitor] and [specific metric improvement]
-
-3. [Specific capability]
-   Why it matters against them: As teams scale past [threshold], [Competitor's limitation] becomes [cost/risk/burden]. We [how we handle it].
-   Proof: [Customer] at [size] achieved [outcome]
-```
+For each point, state the specific capability, why it matters against this competitor, and the proof (a customer quote, switch story, or metric).
 
 ### Phase 5: Discovery Questions (Landmines)
 
@@ -204,6 +161,8 @@ Ask these questions:
 - Questions should feel natural, not like traps
 - Great discovery questions uncover legitimate pain that the rep can help with, regardless of competitive outcome
 - Reps should use these questions whether or not the competitor has been mentioned yet
+
+The example questions below — like the talk tracks in the next phase — are starting guides for the rep. Adapt them to the product and to how your reps actually talk.
 
 **Example Output:**
 ```
@@ -261,37 +220,14 @@ NEVER:
 
 ### Phase 7: Proof Points and Escalation
 
-**Proof to cite in competitive situations:**
+For each major proof point, provide what it proves, the actual quote or metric, and when to use it. The proof that lands hardest in competitive deals: customer switch stories ("[Company] switched from [Competitor] because..."), head-to-head evaluation outcomes with a metric, and scale proof from customers who outgrew the competitor.
 
-For each major proof point, provide:
-- What it proves
-- The actual quote or metric
-- When to use it
-
-```
-Proof Against [Competitor]:
-
-1. Customer switch story:
-   "[Company name] switched from [Competitor] after [time] because [reason]."
-   "[Quote from customer]"
-   Use when: Prospect has [Competitor] experience and is skeptical
-
-2. Head-to-head outcome:
-   "[Customer] evaluated both. After [POC/trial], chose us because [reason]."
-   "[Metric: outcome achieved in X timeframe]"
-   Use when: Prospect is running formal evaluation
-
-3. Scale proof:
-   "[Customer] started on [Competitor] and moved to us when they reached [threshold]."
-   Use when: Discovery reveals growth trajectory that will hit [Competitor]'s ceiling
-
-When to Involve PMM:
-□ Prospect directly asks for side-by-side written comparison
-□ Technical evaluation with [Competitor]'s SE team involved
-□ [Competitor] is spreading false claims (document and escalate)
-□ Deal is $X+ or strategic account
-□ You're in a POC and hitting product limitations that aren't on this card
-```
+**When to involve PMM** — give reps explicit escalation triggers, such as:
+- Prospect directly asks for a written side-by-side comparison
+- Technical evaluation with the competitor's SE team involved
+- The competitor is spreading false claims (document and escalate)
+- The deal is large or a strategic account
+- A POC is hitting product limitations that aren't on the card
 
 ## Battlecard Maintenance Protocol
 
@@ -299,16 +235,15 @@ A stale battlecard is worse than no battlecard — reps stop trusting all compet
 
 **Update triggers:**
 - Competitor announces new product or major feature
-- 3 reps report something on the card is wrong
+- Multiple reps report something on the card is wrong
 - Win/loss data shows win rate against this competitor shifting
 - Competitor raises or lowers pricing significantly
-- Quarterly review regardless of above
+- A periodic review (quarterly is a reasonable default) even if nothing above has fired
 
 **Keeping it current:**
 - Build a Slack channel or form for reps to flag outdated info
-- Review G2/Capterra reviews monthly for competitor signal
-- Read competitor's blog, release notes, and job postings quarterly
-- After every loss to this competitor, debrief the rep within 48 hours
+- Check G2/Capterra reviews, the competitor's blog, release notes, and job postings on a regular cadence — roughly monthly for fast-moving signals like reviews, quarterly for the rest, tuned to how fast the competitor moves
+- After every loss to this competitor, debrief the rep while the deal is still fresh
 
 ## Output Template
 
@@ -410,31 +345,11 @@ Cards go stale within 6 months without a maintenance system
 PMM creates cards for every competitor with superficial content
 → Solution: Do 3-5 competitors well before expanding. A great card for top competitors beats 20 mediocre ones.
 
-## Interactive Approach
+## Working Through This Skill
 
-When guiding someone through this framework, Claude should:
-
-1. **Start with the competitor's own voice** - What do they say about themselves? Read their materials.
-2. **Force honest acknowledgment of strengths** - Challenge the instinct to minimize
-3. **Connect weaknesses to outcomes, not features** - Not "lacks X" but "X means customers face Y"
-4. **Demand real proof** - Not generic testimonials but specific competitive proof
-5. **Write talk tracks in rep language** - Would a rep actually say this on a call?
-6. **Plan for maintenance** - Who owns this card and when does it get reviewed?
+Start with the competitor's own voice — prioritize which competitor to cover by deal frequency, and read their materials directly rather than relying on secondhand intel. Push for honest acknowledgment of their strengths (the hardest and most important step), connect weaknesses to customer outcomes rather than feature gaps, and insist on real competitive proof, not generic testimonials. Write discovery questions and talk tracks in language a rep would actually say on a call, and finish with a maintenance plan: who owns the card and when it gets reviewed. The goal is a battlecard a sales rep trusts enough to reference mid-call, not a document that lives in a folder.
 
 ## References
 - Klue. ["Sales Battlecards 101."](https://klue.com/blog/competitive-battlecards-101) 2024.
 - Crayon. ["8 Best Practices for Effective Sales Battlecards."](https://www.crayon.co/blog/8-best-practices-for-effective-sales-battlecards) 2024.
 - Product Marketing Alliance. ["All You Need to Know About Battlecards."](https://www.productmarketingalliance.com/all-you-need-to-know-about-battlecards/) 2024.
-
-## Skill Invocation Strategy
-
-When invoked, guide the user through:
-1. Identifying which competitor to build a card for and why (prioritize by deal frequency)
-2. Gathering competitor intelligence through their own materials
-3. Honestly assessing strengths — the hardest and most important step
-4. Building differentiated value claims specifically against this competitor
-5. Developing discovery questions and talk tracks in rep-ready language
-6. Identifying proof points from win/loss data and customer stories
-7. Planning a maintenance process
-
-The goal is a battlecard that a sales rep trusts enough to reference mid-call, not a document that lives in a folder.

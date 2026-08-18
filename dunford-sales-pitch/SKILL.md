@@ -8,395 +8,131 @@ metadata:
   category: product-marketing
 ---
 
-# April Dunford Sales Pitch Framework Skill
+# April Dunford Sales Pitch Framework
 
 ## Overview
-This skill implements April Dunford's methodology for building sales pitches that help buyers make confident decisions. Unlike traditional feature walkthroughs, this framework establishes market context and customer needs before demonstrating product capabilities. The approach addresses the root cause of "no decision" outcomes: buyer confusion about alternatives and trade-offs.
+April Dunford's methodology from "Sales Pitch" for building pitches that help buyers make confident decisions. Unlike a feature walkthrough, the pitch establishes market context and the buyer's real alternatives before demonstrating the product — because the biggest competitor in most deals isn't another vendor, it's "no decision."
 
 ## When to Use This Skill
 - Building a new sales deck or pitch structure
-- Improving demo conversion rates
-- Reducing "no decision" outcomes
+- Improving demo conversion rates or reducing "no decision" outcomes
 - Training sales teams on discovery and demos
-- Creating sales enablement materials
-- Developing industry-specific pitch variations
+- Creating sales enablement materials or industry-specific pitch variations
 
-## Key Insight: The "No Decision" Problem
+## The "No Decision" Problem
 
-**40-60% of B2B purchase processes end in "no decision"** - not because competitors win, but because buyers lack confidence in their decision. Traditional feature walkthroughs fail because they don't help buyers understand:
-- What alternatives exist and their trade-offs
-- Why differentiated features matter to their situation
-- How to evaluate options confidently
+A large share of B2B purchase processes — typically close to half — end in no decision at all. Buyers don't choose a competitor; they stall, because they lack confidence that they understand their options and trade-offs well enough to choose. Feature walkthroughs make this worse: they show what the product does without helping the buyer understand why it matters relative to their alternatives. The fix is building market context before the demo.
 
-This framework solves that problem by building market context BEFORE product demonstration.
+## The 8-Component Structure
 
-## The 8-Component Sales Pitch Structure
+**Part 1 — The Setup (components 1-3):** establishes market context and buyer needs. This should be conversational discovery, not a presentation, and it deserves roughly 40-50% of the pitch time. The setup is where you earn the right to demo.
 
-The pitch divides into two parts:
+**Part 2 — The Follow-Through (components 4-8):** demonstrates how your product delivers the differentiated value the setup established.
 
-### Part 1: The Setup (Components 1-3)
-Establishes market context and buyer needs through discovery. **This should be conversational, not presented.**
+### 1. The Insight
+Start with a market truth that helps buyers understand why your differentiated value matters — a truth about the market, not a fact about your company. The insight should be true even if your company didn't exist. Your best customers already "get" it; the pitch teaches it to everyone else.
 
-### Part 2: The Follow-Through (Components 4-8)
-Demonstrates how your product delivers differentiated value identified in the setup.
+Worth probing: what do your best customers understand about the market that prospects who churn or stall never grasped?
 
-## Systematic Development Process
-
-### Component 1: The Insight
-
-**Key Principle:** Start with a market truth that helps buyers understand why your differentiated value matters. Not a fact about your company - a truth about the market.
-
-Ask these questions:
-- What market understanding distinguishes customers who value your solution from those who don't?
-- What do your best customers "get" that others miss?
-- What shift in thinking is required to appreciate your unique value?
-- What conventional wisdom in your market is wrong or outdated?
-- What do prospects need to believe for your differentiation to matter?
-
-**Critical Evaluation:**
-- Is this about the market, not your product?
-- Would prospects who don't understand this insight struggle to value your differentiation?
-- Is this a genuine insight or just a feature description in disguise?
-- Does this insight naturally lead to certain alternatives being inadequate?
-
-**Red Flags to Challenge:**
-- "Our product is better/faster/cheaper" (this is about you, not the market)
-- Generic truths everyone already knows
-- Insights that apply equally to competitors
-- Technical insights that don't connect to business outcomes
-
-**Example Output:** See `references/component-examples.md` for a detailed Insight example using a Sales Intelligence Platform.
-
-### Component 2: Alternatives
-
-**Key Principle:** Map the real alternatives buyers consider - not just your competitors, but all the ways they might solve the problem. Present trade-offs objectively.
-
-Ask these questions:
-- What do buyers actually use when they don't buy from you?
-- What did your current customers use before switching to you?
-- What manual processes or workarounds exist?
-- Is "do nothing" an alternative? Why do some buyers choose it?
-- What are the honest pros and cons of each alternative?
-- Which alternatives work well for which scenarios?
-
-**Critical Evaluation:**
-- Are you including non-obvious alternatives (spreadsheets, manual processes, doing nothing)?
-- Are you presenting trade-offs honestly, not just bashing competitors?
-- Does this alternative analysis connect to your earlier insight?
-- Would a prospect recognize these as their actual decision context?
-
-**Red Flags to Challenge:**
-- Only listing direct competitors by name
-- Strawman alternatives that no one actually uses
-- Presenting only cons with no pros
-- Alternatives that don't reflect how customers actually think about the problem
-
-**Example Output:** See `references/component-examples.md` for a detailed Alternatives Analysis example.
-
-### Component 3: The Perfect World
-
-**Key Principle:** Describe the ideal solution characteristics based on the insight and alternatives analysis. This becomes the buying criteria for best-fit customers.
-
-Ask these questions:
-- Based on the insight and alternatives, what would the ideal solution provide?
-- What capabilities would eliminate the key trade-offs you identified?
-- What would success look like from the buyer's perspective?
-- What criteria should buyers use to evaluate solutions?
-- How would the perfect solution be different from existing alternatives?
-
-**Critical Evaluation:**
-- Does this naturally follow from the insight and alternatives discussion?
-- Are you describing solution characteristics, not your specific product?
-- Would prospects nod along and say "yes, that's what we need"?
-- Does this set up your unique differentiation without explicitly stating it yet?
-
-**Red Flags to Challenge:**
-- This is just a description of your product
-- Criteria that obviously only you can meet (too narrow)
-- Generic "wish list" that doesn't connect to earlier context
-- Features listed instead of outcomes or capabilities
-
-**Example Output:** See `references/component-examples.md` for a detailed Perfect World example.
-
-### Component 4: Introduction
-
-**Key Principle:** Now introduce your company and product. Choose the format that best helps buyers understand your solution in context.
-
-Three format options:
-1. **Family of Products** - If you have multiple related products
-2. **Platform Overview** - If you have a unified platform with components
-3. **Marketecture** - If you fit into a broader ecosystem/tech stack
-
-Ask these questions:
-- How do buyers typically think about solutions in your category?
-- Do you need to explain your company structure or can you go straight to product?
-- What context helps buyers understand where you fit in their world?
-- What format makes your differentiation most clear?
-
-**Critical Evaluation:**
-- Is this introduction brief and context-setting, not a history lesson?
-- Does it help buyers understand what's coming next?
-- Are you clear about your market category (from your positioning)?
-- Does this avoid "about us" fluff?
-
-**Example Output:** See `references/component-examples.md` for a detailed Introduction example.
-
-### Component 5: Differentiated Value
-
-**Key Principle:** Demonstrate features that are BOTH different from alternatives AND valuable to the buyer. Focus on capabilities that deliver the "perfect world" you described.
-
-Ask these questions:
-- Which features are genuinely unique compared to the alternatives you discussed?
-- How does each feature deliver on the "perfect world" criteria?
-- What can buyers do with your solution they can't do with alternatives?
-- How do you want to demonstrate this: demo + slides, demo only, or slides only?
-
-**Presentation Format Decision:**
-- **Demo + Slides**: Best for complex products where context is needed
-- **Demo Only**: Best when product is intuitive and self-explanatory
-- **Slides Only**: Best for high-level buyers or conceptual solutions
-
-**Critical Evaluation:**
-- Are you only showing differentiated features, not feature parity?
-- Does each capability clearly map to a "perfect world" criterion?
-- Are you explaining business value, not just feature mechanics?
-- Would alternatives struggle to deliver this same value?
-
-**Red Flags to Challenge:**
-- Kitchen sink demo showing everything
-- Features that don't connect to earlier setup
-- Capabilities competitors also have
-- Technical details without business context
-
-**Example Output:** See `references/component-examples.md` for a detailed Differentiated Value Demo example.
-
-### Component 6: Proof
-
-**Key Principle:** Provide evidence that you can deliver the value you promise. Use customer stories that mirror the prospect's situation and reinforce differentiated value.
-
-Ask these questions:
-- Which customers best demonstrate the transformation you promise?
-- What specific, quantified outcomes did they achieve?
-- How does their story connect to your differentiated value?
-- Which proof points address likely skepticism about your claims?
-- Do you have customers similar to this prospect?
-
-**Critical Evaluation:**
-- Are metrics specific and credible, not vague percentages?
-- Do case studies reference the differentiated features you just demoed?
-- Is the customer's starting point similar enough to be relevant?
-- Do you have multiple examples showing a pattern, not one outlier?
-
-**Red Flags to Challenge:**
-- Generic testimonials ("great product, great team")
-- Metrics without context (100% increase from what baseline?)
-- Customers too different from the prospect to be credible
-- Proof that doesn't connect to your differentiated value
-
-**Example Output:** See `references/component-examples.md` for a detailed Proof example.
-
-### Component 7: Objections (Optional)
-
-**Key Principle:** Proactively address concerns before prospects raise them. Only include if you have common, predictable objections.
-
-Common objection categories:
-- **Price**: "This seems expensive"
-- **Adoption**: "Will our team actually use this?"
-- **Integration**: "How does this work with our existing stack?"
-- **Risk**: "What if the data is wrong?"
-- **Change**: "We've tried something similar before and it didn't work"
-
-Ask these questions:
-- What objections come up in 80%+ of deals?
-- Can you address these with proof points or explanations?
-- Is it better to handle proactively or wait for them to ask?
-- Do you have credible responses that don't sound defensive?
-
-**Critical Evaluation:**
-- Are these real objections prospects raise, not ones you imagine?
-- Are your responses credible and backed by evidence?
-- Are you addressing concerns without creating new ones?
-- Can these be woven into earlier components instead?
-
-**Example Output:** See `references/component-examples.md` for a detailed Objection Handling example.
-
-### Component 8: The Ask
-
-**Key Principle:** Give prospects a clear next step with mutual commitment. Don't end with "what questions do you have?"
-
-Typical next steps:
-- **Proof of Concept (POC)**: Time-bound trial with success criteria
-- **Expanded Demo**: Deeper dive for additional stakeholders
-- **Technical Review**: Security, integration, infrastructure validation
-- **Business Case Development**: ROI analysis and pricing discussion
-
-Ask these questions:
-- What's the natural next step for this stage of the sales process?
-- What does the prospect need to see/do to move forward?
-- What commitment can you ask for (their time, access, information)?
-- How do you make the next step concrete and time-bound?
-
-**Critical Evaluation:**
-- Is the ask specific and actionable?
-- Does it match where the prospect is in their journey?
-- Are you asking for commitment, not just "following up"?
-- Is the next step clear to both parties?
-
-**Example Output:** See `references/component-examples.md` for a detailed Ask example.
-
-## Complete Pitch Flow Template
-
-```
-# [Product Name] Sales Pitch
-
-## PRE-DEMO: The Setup (Discovery Conversation)
-
-### 1. Insight
-[Market truth that helps them value your differentiation]
-→ Questions to ask prospect:
-   - "How do you currently approach [problem]?"
-   - "What's working/not working with that approach?"
-   - "Have you noticed [insight-related trend]?"
+Red flags:
+- "Our product is better/faster/cheaper" — that's about you, not the market
+- Generic truths everyone already knows, or insights that apply equally to competitors
+- Technical observations that never connect to a business outcome
 
 ### 2. Alternatives
-[Map their real options with honest trade-offs]
-→ Questions to ask prospect:
-   - "What have you tried before?"
-   - "What are you comparing us to?"
-   - "What happens if you do nothing?"
+Map the real options buyers consider — not just competitors, but manual processes, in-house builds, and doing nothing — and present trade-offs honestly, pros included. Credibility here is the whole game: a buyer who sees you describe their alternatives fairly will trust the rest of the pitch.
 
-### 3. Perfect World
-[Describe ideal solution based on their responses]
-→ Confirm with prospect:
-   - "If you could wave a magic wand, what would the ideal solution do?"
-   - "What criteria matter most to you?"
+Worth probing: what did your current customers use before switching, and why do some prospects choose to do nothing?
 
-## DEMO: The Follow-Through
+Red flags:
+- Only direct competitors listed by name
+- Strawman alternatives nobody actually uses, or alternatives with only cons
+- An alternatives map that doesn't match how buyers actually think about the problem
+
+### 3. The Perfect World
+Describe the characteristics of an ideal solution, following from the insight and the trade-offs in the alternatives. This becomes the buyer's evaluation criteria. Write it as solution characteristics, not as your product — it should lead to your solution without naming it. Draft the Perfect World before drafting the differentiated value, so it stays criteria rather than a disguised feature list.
+
+Red flags:
+- It reads as a description of your product
+- Criteria so narrow that only you could conceivably meet them
+- A generic wish list disconnected from the insight and alternatives
 
 ### 4. Introduction
-[Brief company/product context, choose format:]
-- Family of products / Platform overview / Marketecture
+Now introduce the company and product, briefly, as context-setting for what's coming — not a history lesson or "about us" fluff. Choose the framing that makes your position clearest: a family of products, a platform overview, or a marketecture showing where you fit in the buyer's stack. State your market category plainly (this comes from your positioning work).
 
 ### 5. Differentiated Value
-[Demo ONLY features that are unique and deliver on "perfect world"]
+Demonstrate only capabilities that are both different from the alternatives and valuable to this buyer — each one mapped to a Perfect World criterion and explained in business-outcome terms. Skip feature parity entirely; if competitors have it too, it doesn't belong in the pitch.
 
-Feature 1: [Name]
-→ Delivers: [Perfect World criterion]
-→ Demo: [Show it]
-→ Value: [Business outcome]
+Choose the presentation format deliberately:
+- **Demo + slides** — complex products where capabilities need context
+- **Demo only** — intuitive, self-explanatory products
+- **Slides only** — high-level buyers or conceptual solutions
 
-Feature 2: [Name]
-→ Delivers: [Perfect World criterion]
-→ Demo: [Show it]
-→ Value: [Business outcome]
-
-[Repeat for 3-5 differentiated features max]
+Red flags:
+- Kitchen-sink demo showing everything
+- Capabilities that don't trace back to the setup
+- Feature mechanics explained without business value
 
 ### 6. Proof
-[Customer stories that mirror prospect situation]
+Provide evidence you can deliver the value you just showed. The strongest proof is customer stories whose starting point resembles the prospect's, with specific quantified outcomes tied to the differentiated capabilities — ideally several stories showing a pattern, not one outlier.
 
-Customer 1: [Name/Type]
-- Starting point: [Similar to prospect]
-- Results: [Specific metrics]
-- Quote: [Reinforces differentiated value]
+Red flags:
+- Generic testimonials ("great product, great team")
+- Metrics without a baseline or context
+- Proof that doesn't connect to the differentiated value you demoed
 
-[Pattern across customers]
+### 7. Objections (optional)
+Proactively address concerns that come up in most deals — price, adoption, integration, risk, "we tried something like this before." Include this component only if objections are genuinely common and predictable, and only with credible, evidence-backed responses. Often the better move is weaving the answer into an earlier component.
 
-### 7. Objections (If Needed)
-[Address top 2-3 predictable concerns]
+Red flags:
+- Objections you imagine rather than ones prospects actually raise
+- Defensive-sounding responses that create new concerns
 
 ### 8. The Ask
-[Specific next step with mutual commitment]
+End with a clear next step and mutual commitment — a time-bound proof of concept with success criteria, an expanded demo for more stakeholders, a technical review, a business-case work session. Don't end with "what questions do you have?" — that's not an ask. The next step should be specific, time-bound, and matched to where the buyer is in their journey, with commitments on both sides.
+
+## Compact Pitch Flow
+
 ```
+# [Product] Sales Pitch
 
-## Best Practices
+## The Setup (conversational discovery — roughly the first half)
+1. Insight        — market truth that makes your differentiation matter
+2. Alternatives   — the buyer's real options, trade-offs presented honestly
+3. Perfect World  — ideal-solution criteria that follow from 1 and 2
 
-### Do's
-- **Spend 40-50% of time in the setup** - This is where you earn the right to demo
-- **Make setup conversational** - Ask questions, don't present the insight
-- **Only demo differentiation** - Skip features competitors also have
-- **Connect every feature to value** - Never show something without explaining business impact
-- **Use customer language** - Incorporate how prospects describe problems
-- **Make the ask concrete** - Specific action, specific timeline, specific commitment
-
-### Don'ts
-- **Don't start with "about us"** - Earn their attention first with insight
-- **Don't show feature parity** - If competitors have it too, skip it
-- **Don't do a feature walkthrough** - That's not a sales pitch, that's a tour
-- **Don't end with "any questions?"** - That's not an ask, that's a wimpy ending
-- **Don't skip the setup** - You'll just be another vendor doing a demo
-- **Don't ignore "do nothing"** - It's often the real competition
+## The Follow-Through
+4. Introduction   — brief company/product context; state your category
+5. Differentiated Value — a handful of unique capabilities, each mapped
+   to a Perfect World criterion and a business outcome
+6. Proof          — customer stories mirroring the prospect, with metrics
+7. Objections     — top predictable concerns, if needed
+8. The Ask        — specific, time-bound next step with mutual commitment
+```
 
 ## Common Pitfalls
 
-**Pitfall 1: Skipping setup and jumping to demo**
-Sales reps rush to "show the product" without establishing context
-→ Solution: Train reps that setup IS selling, not just preamble to the demo
+**Skipping the setup.** Reps rush to "show the product" and become just another vendor doing a demo. The setup is selling, not preamble.
 
-**Pitfall 2: Showing everything in the demo**
-"Let me show you all our features" leads to overwhelming, undifferentiated demos
-→ Solution: Only demo what's unique and valuable. Less is more.
+**Showing everything.** "Let me walk you through all our features" produces overwhelming, undifferentiated demos. Less is more — demo only what's unique and valuable.
 
-**Pitfall 3: Insight is really about your product**
-"Our unique approach is..." - that's not market insight
-→ Solution: The insight should be true even if your company didn't exist
+**The insight is really about your product.** "Our unique approach is..." is not a market insight. The insight should be true even if your company didn't exist.
 
-**Pitfall 4: Alternatives are strawmen**
-Only showing bad options to make you look good
-→ Solution: Present honest trade-offs. Credibility matters more than perfect positioning
+**Strawman alternatives.** Only showing bad options to make yourself look good costs you the credibility the whole pitch depends on.
 
-**Pitfall 5: Perfect World is just your feature list**
-Describing your product, not solution criteria
-→ Solution: Write Perfect World before drafting differentiated value. It should lead to your solution without naming it.
+**Perfect World is just your feature list.** If it names your product's features, rewrite it as criteria. It should lead to your solution without naming it.
 
-**Pitfall 6: No clear ask**
-Demo ends with vague "let us know if you're interested"
-→ Solution: Every pitch needs a specific, time-bound next step
+**Ignoring "do nothing."** It's often the real competition, and the pitch should make the cost of inaction visible.
 
-## Interactive Questioning Approach
+**No clear ask.** Ending with "let us know if you're interested" or "any questions?" wastes the whole pitch. Every pitch ends with a specific, committed next step.
 
-When guiding someone through this framework, Claude should:
+## Working With Someone on Their Pitch
 
-1. **Work through setup components thoroughly** - Don't rush to the demo
-2. **Push for market insights, not product insights** - Challenge self-centered insights
-3. **Demand honest alternative analysis** - Call out strawmen
-4. **Ensure Perfect World follows from setup** - Test logical flow
-5. **Ruthlessly cut non-differentiated features** - Demo should be short and focused
-6. **Require specific proof** - No vague testimonials
-7. **Make the ask concrete** - Push for specific commitment
-
-## Example Critical Dialogue Flow
-
-**Claude:** "Let's start with your insight. What market truth do prospects need to understand for your differentiation to matter?"
-
-**User:** "Our product is faster and more accurate than competitors."
-
-**Claude:** "That's a claim about your product, not a market insight. What do your best customers understand about the MARKET that makes speed and accuracy important to them? What truth about their world makes those things valuable?"
-
-**User:** "Well, they're dealing with real-time data that goes stale quickly."
-
-**Claude:** "Better - now we're talking about the market. Let's develop that. What's changing about data freshness requirements? Why is this suddenly more important than it was a few years ago?"
-
-[Continue through each component with similar depth and critical engagement]
+Build the components in order — the follow-through only works if it pays off the setup. First answers are usually too vague ("we're faster and more accurate"); probe for specificity, but recognize a real answer when you hear one. Push insights toward the market and away from the product, call out strawman alternatives, check that the Perfect World follows logically from what came before, and cut non-differentiated features without mercy. The finished pitch should read as one argument: because the market works this way, and your alternatives trade off like this, the ideal solution looks like that — and here's the product that delivers it, the proof, and the next step.
 
 ## Relationship to Positioning
 
-This sales pitch framework BUILDS ON positioning (see `/dunford-positioning` skill):
-- **Positioning defines** your competitive alternatives, differentiation, and target market
-- **Sales pitch uses** that positioning to structure buyer conversations
-
-If you haven't done positioning work, start there. The sales pitch will be much easier to build with clear positioning as the foundation.
+This framework builds on positioning (see the dunford-positioning skill). Positioning defines your competitive alternatives, differentiation, and target market; the sales pitch turns that positioning into a buyer conversation. If positioning is unclear, do that work first — the pitch is much easier to build on a solid positioning foundation.
 
 ## References
 - Dunford, April. *Sales Pitch: How to Craft a Story to Stand Out and Win.* 2023.
-
-## Skill Invocation Strategy
-
-When invoked, guide the user through:
-1. Building each component sequentially
-2. Critically evaluating each response
-3. Ensuring logical flow from setup to follow-through
-4. Cutting ruthlessly to focus on differentiation
-5. Producing a complete pitch document
-
-The goal is a sales pitch that helps buyers make confident decisions, not just a product demo that showcases features.

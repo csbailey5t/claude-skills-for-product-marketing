@@ -11,16 +11,14 @@ metadata:
 # Product Launch Planning Skill
 
 ## Overview
-This skill helps product marketers plan and execute product launches that actually move the business. Most launches fail not because of bad products or bad marketing, but because of misaligned expectations, unclear goals, and assets created for their own sake rather than to drive a specific outcome.
-
-This framework starts with a critical question that most teams skip: what does success look like, and what tier of launch is right for this?
+This skill helps product marketers plan and execute launches that actually move the business. Most launches fail not because of bad products or bad marketing, but because of misaligned expectations, unclear goals, and assets created for their own sake rather than to drive a specific outcome. The framework starts with the question most teams skip: what does success look like, and what tier of launch is right for this?
 
 ## When to Use This Skill
 - A product, feature, or major update is being released
 - Engineering/product is asking "when are we launching this?"
 - Launch goals, ownership, or assets are unclear or contested
 - Cross-functional alignment is breaking down
-- Planning quarterly launch calendar
+- Planning a quarterly launch calendar
 - Post-mortem of a launch that didn't land
 
 ## Core Insight: Launches Fail at the Scoping Stage
@@ -36,294 +34,133 @@ The tiering decision — made before any work begins — determines resource all
 ### Tier 1: Landmark Launch
 A major market moment. Everything fires. Cross-functional, externally visible, executive-sponsored.
 
-**When to use T1:**
-- New product that creates a new revenue line
-- Major repositioning or category entry
-- Feature set that changes competitive dynamics
-- Strategic company milestone (first enterprise offering, international expansion)
+**When to use T1:** New product that creates a new revenue line; major repositioning or category entry; feature set that changes competitive dynamics; strategic company milestone (first enterprise offering, international expansion).
 
-**T1 Indicators:**
-- CEO/exec is involved and accountable
-- Press and analyst relations activated
-- Customer events, webinars, or keynote moments
-- Pipeline and revenue goals attached
-- Multi-quarter preparation window needed
+**T1 indicators:** CEO/exec is involved and accountable; press and analyst relations activated; customer events, webinars, or keynote moments; pipeline and revenue goals attached; multi-quarter preparation window needed.
 
-**T1 Typical Assets:**
-- Full press release + media outreach
-- Analyst briefings (Gartner, Forrester, etc.)
-- Executive keynote or launch event
-- New or heavily updated website section
-- Full sales enablement package (deck, demo, battlecard, objection handling)
-- Customer story specifically built for launch
-- Demand gen campaign (paid, email, webinar)
-- Customer comms (existing customers, partners)
-- Launch video or product demo film
-- Social campaign
+**T1 typical assets:** press release and media outreach; analyst briefings; executive keynote or launch event; new or heavily updated website section; full sales enablement package (deck, demo, battlecard, objection handling); customer story built for the launch; demand gen campaign (paid, email, webinar); customer and partner comms; launch video or demo film; social campaign.
 
 ### Tier 2: Notable Launch
 Externally visible, generates awareness and pipeline, but scoped to core marketing channels without PR and executive events.
 
-**When to use T2:**
-- Significant feature expansion that expands ICP or use cases
-- Feature that addresses a top customer request across many accounts
-- Capability that creates new competitive advantage
-- Update that materially changes the product value for a large customer segment
+**When to use T2:** Significant feature expansion that expands ICP or use cases; feature addressing a top customer request across many accounts; capability that creates new competitive advantage; update that materially changes product value for a large customer segment.
 
-**T2 Typical Assets:**
-- Blog post or product update announcement
-- Updated website section or landing page
-- Sales enablement update (email templates, FAQ, demo talking points)
-- Customer communications (email to affected users)
-- Social posts (3-5 pieces)
-- 1-2 demand gen touchpoints (email or webinar)
-- Optional: short video or GIF demo
+**T2 typical assets:** blog post or product update announcement; updated website section or landing page; sales enablement update (email templates, FAQ, demo talking points); customer communications to affected users; social posts; a demand gen touchpoint or two (email or webinar); optionally a short video or GIF demo.
 
 ### Tier 3: Ongoing Release
 Minimal external communication. Updates existing customers, keeps sales informed, no outbound push.
 
-**When to use T3:**
-- Bug fixes with meaningful customer impact
-- Small UX improvements
-- Updates to existing features (not new capabilities)
-- Backend improvements customers won't notice directly
+**When to use T3:** Bug fixes with meaningful customer impact; small UX improvements; updates to existing features; backend improvements customers won't notice directly.
 
-**T3 Typical Deliverables:**
-- In-app notification or release notes
-- Internal sales bulletin / Slack update
-- Customer support documentation updated
-- Product changelog entry
+**T3 typical deliverables:** in-app notification or release notes; internal sales bulletin or Slack update; updated support documentation; changelog entry.
 
-**The Decision Framework:**
+### The Tier Decision
 
-Ask these questions to determine tier:
+Questions that determine the tier:
 1. Does this create net-new revenue opportunity? (T1 indicator)
 2. Does this change the competitive landscape? (T1 or T2)
 3. Does this affect a majority of our customers? (T2 if yes, T3 if narrow)
 4. Is there press-worthy news here? (T1 only)
 5. What's the pipeline/revenue goal this launch is meant to support? (T1 or T2 if there's a goal, T3 if not)
 
-## The Launch Planning Process
-
-### Phase 1: The Tier Decision
-
-**Before any work begins, determine the tier.**
-
-Claude should ask:
-- "What's being launched — product, feature, or update?"
-- "What's the primary business goal this launch supports?"
-- "Is there a pipeline or revenue number attached to this launch?"
-- "Who's the exec sponsor? How involved will they be?"
-- "What's the external-facing narrative? Is there a press story here?"
-- "Is this competitive differentiation, or table stakes for the market?"
-
-**Common misalignments to challenge:**
+Common misalignments worth challenging:
 - "We want T1 impact with T3 resources" — doesn't exist, pick one
 - Product team wants every release treated as major — push back on scoping
 - "We'll do a small launch and see how it goes" — if there's a revenue goal, there's no such thing as a small launch for that
 - "The CEO wants a big announcement" — does the product merit it? Overpromising is worse than under-promoting.
 
-### Phase 2: The Launch Brief
+## The Launch Brief
 
-Every T1 and T2 launch requires a launch brief. This is the single source of truth that every cross-functional team references.
+Every T1 and T2 launch needs a launch brief — the single source of truth every cross-functional team references. Write it before any assets; brief alignment prevents asset rework. Its sections:
 
-**Launch Brief Components:**
+1. **The who and why** — what problem this solves, for whom specifically, what changes for them, why now vs. six months ago
+2. **Goals and success metrics** — primary and secondary goals, how success is measured and by when, what good vs. great looks like
+3. **The launch story** — the one-sentence announcement, the narrative (why now, why us, what's next), what we're NOT saying, top objections to handle
+4. **Target audiences** — external (segments, prospects, press, analysts) and internal (sales, CS, support, exec, partners), and what each needs to know, believe, or do
+5. **Asset plan and owners** — assets with owner, due date, and purpose; channel plan; dependencies
+6. **Timeline and launch date** — T-minus milestones working backward from launch day
+7. **Risks and contingencies** — what could go wrong, rollback or pivot plans, what happens if the product isn't ready
 
-**Section 1: The Who and Why**
-- What problem does this solve?
-- For whom specifically (customer segment, ICP fit)?
-- What changes for them once this exists?
-- Why does this matter now vs. 6 months ago?
+## Cross-Functional Alignment
 
-**Section 2: Goals and Success Metrics**
-- Primary goal: Pipeline generated? Trial signups? Feature adoption? Press coverage?
-- Secondary goals?
-- How will we measure success? By when?
-- What does a good launch look like vs. a great one?
+Launches fail in handoffs. Each team has something it needs, something it owns, and a readiness checkpoint:
 
-**Section 3: The Launch Story**
-- What's the one-sentence announcement?
-- What's the narrative (why now, why us, what's next)?
-- What are we NOT saying? (Out-of-scope messaging)
-- What are the top 3 objections or questions we'll need to handle?
+| Team | Needs | Owns | Readiness checkpoint |
+|------|-------|------|----------------------|
+| Product | Final spec, known limitations | Availability, release notes | Feature complete and stable |
+| Sales | Pitch narrative, objection handling, demo | First deals, customer notification (T1) | Enablement reviewed and trained |
+| Customer Success | Customer comms, FAQ, known impacts | Existing customer notification, renewal narrative | High-risk accounts prepped |
+| Support | Known issues, FAQ, escalation path | Support docs, training | Deflection content live |
+| Marketing | Full launch brief | Campaign execution | Assets approved and scheduled |
+| Comms/PR (T1) | Press materials | Embargo management, distribution | Journalists briefed, embargo held |
+| Leadership | Launch story, approval | Exec amplification | Aligned on narrative |
 
-**Section 4: Target Audiences**
-- External: Which customer segments? Which prospects? Press? Analysts?
-- Internal: Sales, CS, Support, Exec team, Partners?
-- What does each audience need to know, believe, or do as a result of this launch?
+For contested decisions — launch tier, launch date, external messaging, pricing/packaging, go/no-go — a lightweight RACI (who is Responsible, Accountable, Consulted, Informed) prevents ambiguity. Which roles fill which slots depends on the org; the point is that each decision has exactly one accountable owner agreed in advance.
 
-**Section 5: Asset Plan and Owners**
-- Full list of assets with owner, due date, and purpose
-- Channel plan: where/when does each asset deploy?
-- Dependencies between assets
+## The Asset Plan
 
-**Section 6: Timeline and Launch Date**
-- T-minus timeline working backward from launch date
-- Key milestones: brief approval, asset reviews, embargo dates, launch day
-
-**Section 7: Risks and Contingencies**
-- What could go wrong?
-- What's the rollback or pivot plan if X happens?
-- What's our plan if the product isn't ready on the launch date?
-
-### Phase 3: Cross-Functional Alignment
-
-Launches fail in handoffs. This phase defines who owns what.
-
-**Stakeholder map:**
-
-| Team | What They Need | What They Own | Launch Readiness Checkpoint |
-|------|---------------|---------------|---------------------------|
-| Product | Final feature spec, known limitations | Product availability, release notes | Confirmed feature complete and stable |
-| Sales | Pitch narrative, objection handling, demo | Customer notification for T1, first deals | Sales enablement reviewed and trained |
-| Customer Success | Customer comms, FAQ, known impacts | Existing customer notification, renewal narrative | CS notified, high-risk accounts prepped |
-| Support | Known issues, FAQ, escalation path | Support docs, training | Ticket deflection content live |
-| Marketing | Full launch | Campaign execution | All assets approved and scheduled |
-| Comms/PR | Press materials (T1 only) | Embargo management, release distribution | Journalists briefed, embargo held |
-| Leadership | Launch story, approval | Exec amplification | Briefed and aligned on narrative |
-
-**RACI Template for Key Decisions:**
-
-| Decision | Responsible | Accountable | Consulted | Informed |
-|----------|-------------|-------------|-----------|----------|
-| Launch tier | PMM | Marketing VP | Product, Sales | All |
-| Launch date | Product | Product VP | PMM | All |
-| External messaging | PMM | Marketing VP | Sales, CS | All |
-| Pricing/packaging | PMM | VP Product/Marketing | Sales | All |
-| Go/No-go | PMM | Marketing VP | Product, Sales, CS | All |
-
-### Phase 4: The Asset Plan
-
-**Don't create assets — create assets with purpose.**
-
-For every asset, answer:
+Don't create assets — create assets with purpose. For every asset, answer:
 - **Purpose**: What specific action or belief does this enable?
 - **Audience**: Who specifically reads/watches/uses this?
 - **Channel**: Where does it live and how does it get distributed?
 - **Due date**: When must it be final (not "ready for review")?
 - **Owner**: Who is accountable for completing it?
 
-**The go-to-market moment map:**
-
-Trace the customer/prospect journey for your launch and identify the key moments where assets need to exist:
+**The go-to-market moment map.** Trace the customer/prospect journey and identify the moments where assets need to exist:
 
 ```
 AWARENESS MOMENT:
-  - What channels will prospects first hear about this?
-  - Assets needed: [press release / blog / social / email]
+  Where will prospects first hear about this?
+  Assets: press release / blog / social / email
 
 EVALUATION MOMENT:
-  - What do prospects/customers do when they want to learn more?
-  - Assets needed: [landing page / one-pager / demo video]
+  What do prospects/customers do when they want to learn more?
+  Assets: landing page / one-pager / demo video
 
 CONVERSATION MOMENT:
-  - What do sales reps need when this launch comes up in a call?
-  - Assets needed: [talking points / objection handling / updated deck]
+  What do sales reps need when this comes up in a call?
+  Assets: talking points / objection handling / updated deck
 
 DECISION MOMENT:
-  - What do economic buyers need to get comfortable?
-  - Assets needed: [ROI model / case study / security review]
+  What do economic buyers need to get comfortable?
+  Assets: ROI model / case study / security review
 
 ADOPTION MOMENT (existing customers):
-  - How do existing customers learn about and activate the new feature?
-  - Assets needed: [in-app notification / email / CSM talking points]
+  How do existing customers learn about and activate this?
+  Assets: in-app notification / email / CSM talking points
 ```
 
-### Phase 5: The Launch Timeline
+## The Launch Timeline
 
-**Work backward from launch day.**
+Work backward from launch day. A typical T1 shape looks something like this — treat it as an illustrative default to compress or stretch, not a schedule to enforce:
 
-T-8 weeks:
-- Launch brief approved by all stakeholders
-- Tier confirmed
-- Launch date set
-- Asset plan complete with owners and due dates
+- **~8 weeks out**: brief approved by all stakeholders, tier confirmed, launch date set, asset plan complete with owners
+- **~6 weeks out**: messaging finalized, sales enablement in draft, PR/analyst strategy confirmed
+- **~4 weeks out**: draft assets in review, sales training scheduled, embargo briefings begin, customer comms drafted
+- **~2 weeks out**: assets final and approved, sales training complete, support docs live, customer comms scheduled
+- **Final week**: go/no-go decision, sales bulletins sent, embargo reminders, launch-day war room set up
+- **Launch day**: assets live per schedule, exec amplification, monitoring (mentions, traffic, signups, deal activity), real-time response plan active
+- **A couple of weeks after**: metrics review, sales feedback, support ticket review, retrospective
 
-T-6 weeks:
-- Messaging finalized
-- Sales enablement in draft
-- PR/analyst strategy confirmed (T1 only)
+T2 launches follow the same backward-planning logic on a shorter runway.
 
-T-4 weeks:
-- All draft assets in review
-- Sales enablement training scheduled
-- PR embargo briefings begin (T1 only)
-- Customer comms drafted
+## Success Measurement
 
-T-2 weeks:
-- All assets final and approved
-- Sales training complete
-- Support docs live
-- Customer comms scheduled (for day of or day before)
+Define success before you launch — you can't measure success you didn't define.
 
-T-1 week:
-- Go/No-go decision
-- Sales bulletins sent
-- Embargo reminder to briefed contacts (T1)
-- Launch day war room / Slack channel set up
-
-Launch day:
-- Assets go live per schedule
-- Exec amplification (T1)
-- Monitoring: mentions, traffic, signups, deal activity
-- Real-time response plan active
-
-T+2 weeks:
-- Launch metrics review
-- Sales feedback gathered
-- Customer support ticket review
-- Retrospective scheduled
-
-### Phase 6: Success Measurement
-
-**What does a good launch look like?**
-
-For T1 launches:
-- Pipeline generated directly attributable to launch (by X date)
-- Press coverage (outlets, reach, sentiment)
-- Analyst engagement (briefings accepted, coverage)
-- Website traffic to launch landing page
-- Trial/demo/signup conversion from launch
-- Social reach and share of voice
-
-For T2 launches:
-- Email campaign open rate and CTR
-- Blog traffic
-- Demo requests attributed to launch
-- Feature adoption in first 30 days (existing customers)
-- Sales usage of launch assets
-
-For T3 launches:
-- Release notes views
-- Support ticket volume for affected feature (should decrease)
-- In-app notification click-through
+- **T1**: pipeline directly attributable to the launch (by a specific date), press coverage (outlets, reach, sentiment), analyst engagement, landing page traffic, trial/demo/signup conversion, social reach and share of voice
+- **T2**: email campaign engagement, blog traffic, demo requests attributed to launch, feature adoption in the first month, sales usage of launch assets
+- **T3**: release notes views, support ticket volume for the affected feature (should decrease), in-app notification click-through
 
 **Common measurement mistakes:**
-- Measuring activity (emails sent, blog posts published) not outcomes
+- Measuring activity (emails sent, posts published), not outcomes
 - No baseline to compare to: "traffic went up" — from what?
-- Measuring too early: most launches take 4-6 weeks to show pipeline impact
+- Measuring too early — pipeline impact typically takes a month or more to show
 - Attributing everything to the launch that was already in motion
 
 ## The Go/No-Go Decision
 
-One week before launch, make an explicit go/no-go decision.
-
-**Go criteria (all must be true):**
-- [ ] Product is stable and feature-complete for launch scope
-- [ ] All T1/T2 assets are final and approved
-- [ ] Sales team is trained and ready
-- [ ] Customer success has prepped high-risk accounts
-- [ ] Support team has documentation and escalation paths
-- [ ] PR embargo is intact (T1 only)
-- [ ] Leadership is aligned on narrative
-- [ ] We have a rollback plan if needed
-
-**No-go criteria (any should trigger delay):**
-- Critical bug discovered in launch feature
-- Major customer complaint or incident unresolved
-- Key stakeholder not aligned on messaging
-- Core assets not complete
-- Sales not trained
+Shortly before launch, make an explicit go/no-go decision rather than drifting into launch day. Go requires: product stable and feature-complete for the launch scope; assets final and approved; sales trained; CS has prepped high-risk accounts; support has docs and escalation paths; embargo intact (T1); leadership aligned on narrative; a rollback plan exists. Delay if a critical bug is discovered, a major customer incident is unresolved, a key stakeholder isn't aligned on messaging, core assets aren't done, or sales isn't trained.
 
 ## Output: Launch Brief Template
 
@@ -332,21 +169,14 @@ One week before launch, make an explicit go/no-go decision.
 Tier: [T1 / T2 / T3]
 Launch Date: [Date]
 PMM Owner: [Name]
-Brief Version: [X.X]
-
----
 
 ## One-Sentence Announcement
-[What we're launching, for whom, and why it matters — in one sentence]
-
----
+[What we're launching, for whom, and why it matters]
 
 ## Business Context
 Problem we're solving: [For the customer]
 Why now: [Why this moment matters]
 Strategic importance: [Why this matters for the business]
-
----
 
 ## Goals and Success Metrics
 Primary goal: [Specific outcome]
@@ -354,120 +184,55 @@ Success looks like: [Specific metrics, timeframe]
 Stretch goal: [Best case]
 Minimum bar: [What would make this worthwhile]
 
----
-
 ## Target Audiences
-External:
-  - [Segment 1]: What they need to know/do
-  - [Segment 2]: What they need to know/do
-
-Internal:
-  - Sales: [What they need]
-  - CS: [What they need]
-  - Support: [What they need]
-
----
+External: [Segment]: what they need to know/do
+Internal: Sales / CS / Support: what each needs
 
 ## Launch Story
 Headline message: [What we're saying]
 Supporting narrative: [Why now, why us]
 What we're NOT saying: [Out-of-scope]
-Top 3 questions/objections: [And how we address them]
-
----
+Top questions/objections: [And how we address them]
 
 ## Asset Plan
 | Asset | Purpose | Audience | Owner | Due Date | Channel |
 |-------|---------|----------|-------|----------|---------|
-| [Asset] | [Why] | [Who] | [Name] | [Date] | [Where] |
-
----
 
 ## Timeline
-[T-8 through launch day key milestones]
-
----
+[Key milestones working backward from launch day]
 
 ## Risks and Contingencies
-Risk 1: [What could go wrong]
-Plan: [What we'd do]
-
----
+Risk: [What could go wrong] → Plan: [What we'd do]
 
 ## Go/No-Go Criteria
-[List of must-be-true conditions]
-
----
+[Must-be-true conditions]
 
 ## Stakeholder Sign-off
-PMM: ✓ | Product: ✓ | Sales: ✓ | CS: ✓ | Leadership: ✓
+PMM | Product | Sales | CS | Leadership
 ```
-
-## Best Practices
-
-### Do's
-- **Decide the tier before any work begins** — Saves enormous wasted effort
-- **Write the launch brief before any assets** — Brief alignment prevents asset rework
-- **Define success before you launch** — You can't measure success you didn't define
-- **Run a go/no-go checkpoint** — Explicit decision prevents drifting into bad launches
-- **Do a retrospective within 2 weeks** — Captures lessons while they're fresh
-
-### Don'ts
-- **Don't let "launch date" be set by engineering** — It should be a joint product/marketing decision based on readiness, not build completion
-- **Don't create assets without a purpose** — "We should have a video" is not a purpose
-- **Don't skip internal enablement** — The most common failure: great external launch, sales doesn't know how to talk about it
-- **Don't over-scope** — A T2 launch done well beats a T1 launch done poorly
-- **Don't measure activity** — Measuring emails sent instead of pipeline generated misses the point
 
 ## Common Pitfalls
 
-**Pitfall 1: The launch date is really the ship date**
-Engineering ships code; marketing launches the product. These don't have to be the same day.
-→ Solution: Separate the "available" date from the "launch" date. Products can launch weeks or months after they ship.
+**The launch date is really the ship date.** Engineering ships code; marketing launches the product. Separate the "available" date from the "launch" date — products can launch weeks or months after they ship, and the launch date should be a joint product/marketing decision based on readiness, not build completion.
 
-**Pitfall 2: "Everyone" is the target audience**
-Launch message tries to speak to developers, executives, and end users simultaneously
-→ Solution: Pick the primary audience for the launch moment. Others can be served separately.
+**"Everyone" is the target audience.** The launch message tries to speak to developers, executives, and end users simultaneously. Pick the primary audience for the launch moment; serve others separately.
 
-**Pitfall 3: Launch = blog post**
-A T2 product ships, PMM writes a blog, nothing else happens
-→ Solution: Every T2 launch needs a distribution plan, not just an asset plan. Who will read the blog? How?
+**Launch = blog post.** A T2 product ships, PMM writes a blog, nothing else happens. Every T2 launch needs a distribution plan, not just an asset plan. Who will read the blog? How will they find it?
 
-**Pitfall 4: Post-launch silence**
-Huge effort leading up to launch, immediate drop-off after
-→ Solution: Plan the 30-day post-launch nurture. Launches create awareness; campaigns drive conversion.
+**Post-launch silence.** Huge effort up to launch, immediate drop-off after. Plan the 30-day post-launch nurture — launches create awareness; campaigns drive conversion.
 
-**Pitfall 5: No stakeholder alignment on goals**
-PMM measures press coverage; product measures adoption; sales measures pipeline — all measuring different things
-→ Solution: Goals section of the brief must be agreed upon before work begins.
+**No stakeholder alignment on goals.** PMM measures press coverage, product measures adoption, sales measures pipeline. The goals section of the brief must be agreed before work begins.
 
-## Interactive Approach
+**Skipped internal enablement.** The most common failure mode: great external launch, sales doesn't know how to talk about it.
 
-When guiding someone through this framework, Claude should:
+**Over-scoping.** A T2 launch done well beats a T1 launch done poorly.
 
-1. **Start with the tier decision** — What are we launching and what does success look like?
-2. **Challenge the scope** — Is this really T1 or are we over-investing in T2?
-3. **Force goal specificity** — "Awareness" is not a goal. What number? By when?
-4. **Map the stakeholders** — Who needs to be aligned and what do they need?
-5. **Build the asset plan with purpose** — Every asset needs an audience, channel, and goal
-6. **Create the timeline backward** — From launch date to now, what needs to happen when?
-7. **Plan the measurement** — Before launch, agree on what good looks like
+## Working With Someone on a Launch
+
+Start with the tier decision and challenge the scope — is this really T1, or over-investment in a T2? Force goal specificity ("awareness" is not a goal — what number, by when?). Then build the brief, the asset plan (every asset with an audience, channel, and purpose), the backward timeline, and agreement on what good looks like before launch day. The goal is a launch that moves a business metric, not just a date on a calendar where content goes live.
 
 ## References
 - Lauchengco, Martina. *Loved: How to Rethink Marketing for Tech Products.* 2022.
 - Product Marketing Alliance. ["Launch Tier Framework."](https://www.productmarketingalliance.com/launch-tier-framework/) 2024.
 - PMM Camp Newsletter. ["Tiers Over Tears."](https://newsletter.pmmcamp.com/p/edition-28) 2023.
 - LaunchNotes. ["The Ultimate Product Launch Plan."](https://www.launchnotes.com/blog/the-ultimate-product-launch-plan-for-new-product-marketers) 2024.
-
-## Skill Invocation Strategy
-
-When invoked, guide the user through:
-1. The tier decision — what are we launching and what does success require?
-2. Launch brief development — story, goals, audiences, assets
-3. Cross-functional stakeholder alignment
-4. Asset plan with explicit purpose and owner for each piece
-5. Timeline working backward from launch date
-6. Go/no-go criteria
-7. Success measurement framework
-
-The goal is a launch that moves a business metric, not just a date on a calendar where content goes live.
